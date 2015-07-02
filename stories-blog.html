@@ -5,7 +5,7 @@ layout: default
 <div class="home">
 
     {% for post in site.posts %}
-    <a href="{{ post.url | prepend: site.baseurl }}">
+    <a href="{{ post.url | prepend: site.baseurl }}" style="padding-bottom: 10px">
     <div class="row">
     <div class="col-md-4 col-sm-4">
     <img src="{{ post.hero | prepend: site.baseurl }}" style="max-width:100%" />
