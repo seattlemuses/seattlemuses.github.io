@@ -12,6 +12,6 @@ defaults:
       type: "posts"
     values:
       layout:  "post"
-      section: "Stories", "Blog"
+      section: ["Stories", "Blog"]
 
 permalink: /blog/:year/:month/:title.html
