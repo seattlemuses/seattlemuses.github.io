@@ -5,18 +5,16 @@ layout: default
 <div class="home">
 
     {% for post in site.posts %}
-    <a href="{{ post.url | prepend: site.baseurl }}">
+    <h1> <a href="{{ post.url | prepend: site.baseurl }}"> {{ post.title }} </a> </h1>
     <div class="row" style="padding-bottom: 10px">
     <div class="col-md-4 col-sm-4">
     <img src="{{ post.hero | prepend: site.baseurl }}" style="max-width:100%" />
     </div>
     <div class="col-md-8 col-sm-8">
-        <h1> {{ post.title }} </h1>
         <span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span> ·
         <span class="post-excerpt">{{ post.content | strip_html | truncatewords: 50 }} </span>
     </div>
     </div>
-    </a>
     {% endfor %}
 
 </div>
