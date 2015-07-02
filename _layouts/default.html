@@ -12,18 +12,18 @@
         <![endif]-->
 
     <div class="container">
-{% include header.html %}
+{% include nav.html %}
+
+    {% if page.section }
     <div class="breadcrumb muses-breadcrumb">
       <li><a href="/index.html">Muses</a></li>
-      <li>Stories</li>
-      <li class="active">Blog</li>
+      {% for section in page.section %}
+      <li> {{ section }} </li>
+      {% endfor %}
     </div>
+    {% endif %}
       
-    <div class="page-content">
-      <div class="wrapper">
-        {{ content }}
-      </div>
-    </div>
+{{ content }}
 
     </div> <!-- /container -->
 
