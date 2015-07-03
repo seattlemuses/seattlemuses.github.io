@@ -6,7 +6,9 @@ section: ["Stories", "Blog"]
 <h1> <a href="{{ post.url | prepend: site.baseurl }}"> {{ post.title }} </a> </h1>
 <div class="row" style="padding-bottom: 10px">
   <div class="col-md-4 col-sm-4">
-    <img src="{{ post.hero | prepend: site.baseurl }}" style="max-width:100%" />
+    {% if post.hero %}
+    <img src="{{ site.baseurl }}{{ post.hero }}" style="max-width:100%" />
+    {% endif %}
   </div>
   <div class="col-md-8 col-sm-8">
     <p>{{ post.date | date: "%b %-d, %Y" }}{% if post.author %} • by {{ post.author }}{% endif %} {% if post.categories %} • in {{ post.categories | array_to_sentence_string }}{% endif %}</p>
