@@ -18,4 +18,4 @@ We are delighted to welcome Leslie Haynes to our team! Leslie is joining Muses a
 > 
 > My muses have always been teachers. I come from a long line of them. Tough teachers. Dedicated teachers. Teachers who put the needs of their students first. It is a rare and wonderful thing to watch a master teacher work, and I have had the good fortune of being taught by many. I see myself as just trying to return the favor".
 
-Thank you Leslie for contributing to Muses' work!
+*Thank you Leslie for contributing to Muses' work!*
