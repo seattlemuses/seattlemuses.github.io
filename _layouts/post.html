@@ -2,19 +2,6 @@
 layout: default
 ---
 
-{% assign post = page %}
-{% assign categorylinks = '' %}
-{% for post_category in post.categories %}
-  {% for data_category in site.blogCategories %}
-    {% if data_category.value == post_category %}
-      {% assign category = data_category %}
-    {% endif %}
-  {% endfor %}
-  {% if category %}
-    {% capture categorylinks %}{{ categorylinks }}{% if forloop.first == false %}, {% endif %}<a href="/blog/category/{{ category.value }}.html">{{ category.name }}</a>{% endcapture %}
-  {% endif %}
-{% endfor %}
-
 <style>
 img {
 display: block;
@@ -33,5 +20,6 @@ margin-bottom: 10px;
 </style>
 
 <h1>{{ page.title }}</h1>
-<p>{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • by {{ page.author }}{% endif %}{% if page.categories %} • in {{ categorylinks }}{% endif %}</p>
+{% include _getCategoryList.html categories=page.categories %}
+<p>{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • by {{ page.author }}{% endif %}{% if page.categories %} • in {{ category_list }}{% endif %}</p>
 {{ content }}
