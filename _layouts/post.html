@@ -11,7 +11,7 @@ layout: default
     {% endif %}
   {% endfor %}
   {% if category %}
-    {% capture categorylinks %}{{ categorylinks }}{% if forloop.first == false %}, {% endif %}{% if forloop.last == true %}and {% endif %}<a href="/blog/category/{{ category.value }}/">{{ category.name }}</a>{% endcapture %}
+    {% capture categorylinks %}{{ categorylinks }}{% if forloop.first == false %}, {% endif %}{% if forloop.last == true %}and {% endif %}<a href="/blog/category/{{ category.value }}.html/">{{ category.name }}</a>{% endcapture %}
   {% endif %}
 {% endfor %}
 
