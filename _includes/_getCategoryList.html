@@ -1,8 +1,8 @@
 {% assign category_list = '' %}
 {% for category_value in include.categories %}
   {% include _getCategoryNode.html value=category_value %}
-  {% if category %}
-    {% capture category_list %}{{ category_list }}{% if forloop.first == false %}, {% endif %}<a href="/blog/category/{{ category.value }}.html">{{ category.name }}</a>{% endcapture %}
+  {% if category_node %}
+    {% capture category_list %}{{ category_list }}{% if forloop.first == false %}, {% endif %}<a href="/blog/category/{{ category_node.value }}.html">{{ category_node.name }}</a>{% endcapture %}
   {% else %}
     {% capture category_list %}{{ category_list }}{% if forloop.first == false %}, {% endif %}{{ category_value }}{% endcapture %}
   {% endif %}
