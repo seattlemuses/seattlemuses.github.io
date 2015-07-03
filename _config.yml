@@ -52,13 +52,13 @@ prose:
           placeholder: "Choose Categories"
           options:
             - name: "Immigrants & Refugees"
-              value: "Immigrants &amp; Refugees"
+              value: "immigrants-refugees"
             - name: "Ethical Fashion"
-              value: "Ethical Fashion"
+              value: "ethical-fashion"
             - name: "Muses Updates"
-              value: "Muses Updates"
+              value: "muses-updates"
             - name: "Workforce Development"
-              value: "Workforce Development"
+              value: "workforce-development"
       - name: "thumbnail"
         field:
             element: "text"
