@@ -1,5 +1,6 @@
 {% assign categorylinks = '' %}
 {% for category_value in include.categories %}
+  {% assign category null %}
   {% for blogCategory in site.blogCategories %}
     {% if blogCategory.value == category_value %}
       {% assign category = blogCategory %}
