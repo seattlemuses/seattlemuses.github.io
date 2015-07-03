@@ -17,7 +17,7 @@ defaults:
 
 permalink: /blog/:year/:month/:title.html
 
-blogCategories:
+blogCategories: &blogcategories
   - name: "Immigrants &amp; Refugees"
     value: "immigrants-refugees"
   - name: "Ethical Fashion"
@@ -60,15 +60,7 @@ prose:
           element: "multiselect"
           label: "Add Categories"
           placeholder: "Choose Categories"
-          options:
-            - name: "Immigrants &amp; Refugees"
-              value: "immigrants-refugees"
-            - name: "Ethical Fashion"
-              value: "ethical-fashion"
-            - name: "Muses Updates"
-              value: "muses-updates"
-            - name: "Workforce Development"
-              value: "workforce-development"
+          options: *blogcategories
       - name: "thumbnail"
         field:
             element: "text"

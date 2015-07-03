@@ -12,11 +12,11 @@ section: ["Stories", "Blog"]
     {% endif %}
   {% endfor %}
   {% if category %}
-    {% capture categorylinks %}{{ categorylinks }}{% if forloop.first == false %}, {% endif %}{% if forloop.last == true %}and {% endif %}<a href="/blog/category/{{ category.value }}.html">{{ category.name }}</a>{% endcapture %}
+    {% capture categorylinks %}{{ categorylinks }}{% if forloop.first == false %}, {% endif %}<a href="/blog/category/{{ category.value }}.html">{{ category.name }}</a>{% endcapture %}
   {% endif %}
 {% endfor %}
 
-<h1> <a href="{{ post.url | prepend: site.baseurl }}"> {{ post.title }} </a> </h1>
+<h2> <a href="{{ post.url | prepend: site.baseurl }}"> {{ post.title }} </a> </h2>
 <div class="row" style="padding-bottom: 10px">
   <div class="col-sm-3">
     {% if post.thumbnail %}
