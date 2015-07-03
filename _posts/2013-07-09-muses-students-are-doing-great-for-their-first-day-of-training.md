@@ -4,7 +4,7 @@ title: "Muses' students are doing great for their first day of training"
 author: Sandrine
 date: 2013 July 9
 categories:
-  - Muses Updates
+  - "muses-updates"
 thumbnail: /assets/img_8291.jpg
 ---
 For their first day, Muses students started to draw their own pattern to create a skirt. Measurement, calculations, drawing..it was a first exciting and busy day. During this 8 week program, our students will learn the right skills to work in the clothing manufacturing industry. They will be introduced to sewing and the process of production. We look forward to seeing all their amazing accomplishments!

@@ -4,9 +4,9 @@ title: Muses is moving in!
 author: Sandrine
 date: 2015 February 7
 categories:
-  - Immigrants &amp; Refugees
-  - Muses Updates
-  - Workforce Development
+  - "immigrants-refugees"
+  - "muses-updates"
+  - "workforce-development"
 thumbnail: /assets/muses-studio1.jpg
 ---
 ## After several months of hard work and thanks to all our donors and supporters, we are pleased to announce that we found a new working space for Muses next apparel production training program!

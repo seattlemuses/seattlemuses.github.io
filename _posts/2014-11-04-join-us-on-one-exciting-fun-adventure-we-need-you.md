@@ -4,7 +4,7 @@ title: Join us on one exciting, fun adventure! We need you!
 author: Esther
 date: 2014 November 4
 categories:
-  - Muses Updates
+  - "muses-updates"
 thumbnail: /assets/img_7547.jpg
 ---
 ![Niang working on the next creation during our pilot training. Can't wait to start classes again!](/assets/img_7547 (1).jpg)

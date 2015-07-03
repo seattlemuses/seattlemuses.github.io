@@ -4,7 +4,7 @@ title: Welcome Muses's new crew members!
 author: Sandrine
 date: 2014 June 18
 categories:
-  - Muses Updates
+  - "muses-updates"
 thumbnail: /assets/profile-picture.jpg
 ---
 Muses is excited to welcome two new talented members to our team! Please meet Kelly Chang and Caitlin Cordell. Welcome aboard ladies!

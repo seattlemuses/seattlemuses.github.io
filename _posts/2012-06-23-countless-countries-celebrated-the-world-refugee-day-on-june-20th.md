@@ -4,8 +4,8 @@ title: 'Countless countries celebrated "The World Refugee Day" on June 20th'
 author: Sandrine
 date: 2012 June 23
 categories:
-  - Immigrants &amp; Refugees
-  - Ethical Fashion
+  - "immigrants-refugees"
+  - "ethical-fashion"
 thumbnail: /assets/300px-Ombrelles.jpg
 ---
 ![Français : Ombrelle, France, début XXe siècle](/assets/300px-Ombrelles.jpg "Français : Ombrelle, France, début XXe siècle")

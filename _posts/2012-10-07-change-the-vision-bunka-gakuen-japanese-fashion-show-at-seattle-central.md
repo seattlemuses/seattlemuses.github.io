@@ -4,7 +4,7 @@ title: '"Change the vision": Bunka Gakuen Japanese Fashion Show at Seattle Centr
 author: Sandrine
 date: 2012 October 7
 categories:
-  - Ethical Fashion
+  - "ethical-fashion"
 thumbnail: /assets/img_64581-e1349796343164.jpg
 ---
 ![](/assets/img_64581.jpg "Portrait")

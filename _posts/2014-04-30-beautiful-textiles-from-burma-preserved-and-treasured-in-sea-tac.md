@@ -4,7 +4,7 @@ title: Beautiful textiles from Burma preserved and treasured in Sea-Tac (written
 author: Sandrine
 date: 2014 April 30
 categories:
-  - Immigrants &amp; Refugees
+  - "immigrants-refugees"
 thumbnail: /assets/img_8981.jpg
 ---
 Zam Khan Cingh holds a treasure in her family's Sea-Tac apartment: she keeps a collection of textiles made by fellow women of the Chin ethnic minority. As a refugee from Myanmar, where the Chin reside, Cingh, who belongs to the Siyin tribe, traveled to the US with the bright colors and intricate patterns of the textiles in tow, determined to preserve this part of her cultural heritage.

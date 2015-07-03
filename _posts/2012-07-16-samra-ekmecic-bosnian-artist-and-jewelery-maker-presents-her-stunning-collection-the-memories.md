@@ -4,8 +4,8 @@ title: 'Samra Ekmecic, Bosnian artist and jewelery maker, presents her stunning 
 author: Sandrine
 date: 2012 July 16
 categories:
-  - Immigrants &amp; Refugees
-  - Ethical Fashion
+  - "immigrants-refugees"
+  - "ethical-fashion"
 thumbnail: /assets/samra-750.jpg
 ---
 ## SeaTac, July 5th.

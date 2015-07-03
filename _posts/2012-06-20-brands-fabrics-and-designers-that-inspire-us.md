@@ -4,7 +4,7 @@ title: Brands, fabrics and designers that inspire us
 author: Sandrine
 date: 2012 June 20
 categories:
-  - Ethical Fashion
+  - "ethical-fashion"
 thumbnail: http://seattlewatch2012.files.wordpress.com/2012/06/vlisco-fashion_palais-des-sentiments_collection-01.jpg
 ---
 > As individuals we want to remind ourselves that our consuming choices matter. We want to have further opportunities to consume products that are aligned to our values; the ones that care about the environment and advocate for workers' rights. Behind the beautiful designs, shapes and fabrics accessible to us, we are looking for more transparency. We want to envision collaborative and conscious efforts between entrepreneurs, founders, craftsmen, producers and consumers.

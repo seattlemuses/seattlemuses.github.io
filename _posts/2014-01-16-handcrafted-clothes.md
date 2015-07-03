@@ -4,8 +4,8 @@ title: Happy New Year 2014!
 author: Sandrine
 date: 2014 January 16
 categories:
-  - Ethical Fashion
-  - Muses Updates
+  - "ethical-fashion"
+  - "muses-updates"
 thumbnail: /assets/img_8773.jpg
 ---
 2013 was such a prolific year! Muses's pilot training was successfully completed by our 5 students - now graduates. Our 2 wonderful partnerships with local retailers and designers led to the promotion of Ethic and Sustainable initiatives. With the help of our experienced and dedicated instructor Pennie Sangerman, BYDFAULT and GREEN EILEEN developed innovative up-cycled products. To add on its [clothing line](http://bydfault.com/shop/), Bydfault is currently working on producing [upcycled bags](http://bydfault.com/upcycled-bags-from-kites-the-making-of-story/) derived from a kite used to kitesurf. Green Eileen chose Muses to experiment with the development of an [upcycled children clothing line](http://www.greeneileen.org/upcycled/). Through these 2 partnerships Muses witnessed the increasing need for greater access to handmade local fashion and eco-friendly products.

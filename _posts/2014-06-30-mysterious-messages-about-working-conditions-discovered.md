@@ -4,7 +4,7 @@ title: Mysterious messages about working conditions discovered in a Swansea stor
 author: Sandrine
 date: 2014 June 30
 categories:
-  - Ethical Fashion
+  - "ethical-fashion"
 thumbnail: /assets/primark-label-with-a-mess-011.jpg
 ---
 According to the Guardian, a couple of weeks ago, a shopper has come forward, claiming that a label which reads '"Degrading" sweatshop conditions' was sewn into a Primark top bought in Swansea in 2013. Primark has started some investigation and hopes the label will turn out to be a oak. Indeed, Primark, unlike other retailers who have admitted to a presence in the Rana Plaza factory, has contributed to the compensation fund redistributed to the Rana Plaza's workers.

@@ -4,7 +4,7 @@ title: 'Seattle Fashion Highlight: BYDFAULT, a socially conscious premium appare
 author: Nataliya
 date: 2014 May 22
 categories:
-  - Ethical Fashion
+  - "ethical-fashion"
 thumbnail: /assets/stephane-boss-image-portrait.jpeg
 ---
 I met Stéphane over lunch in a local bistro in downtown Seattle. We have connected in the end of last year during a happy hour highlighting his ethically manufactured clothing and launching a bag made from kite material!

@@ -4,7 +4,7 @@ title: Karen New Year Celebration, delightful scents and fashion
 author: Sandrine
 date: 2013 January 21
 categories:
-  - Immigrants &amp; Refugees
+  - "immigrants-refugees"
 thumbnail: /assets/burmese-fabric-e1358894299419.jpg
 ---
 Traditional Karen Music, dances and songs echoed in the Kent Covenant Church on January 5th to celebrate the Karen New Year. The event gave an opportunity for the young and older generation to share and celebrate Burmese culture. The Karen calendar began 739 years before the Gregorian (or Christian) calendar, when the Karen people arrived in Burma (Myanmar) from Mongolia. This year, the Karen New Year fell on January 12th.

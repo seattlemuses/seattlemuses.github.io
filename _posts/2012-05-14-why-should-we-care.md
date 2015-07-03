@@ -4,8 +4,8 @@ title: Why should we care?
 author: Sandrine
 date: 2012 May 14
 categories:
-  - Immigrants &amp; Refugees
-  - Ethical Fashion
+  - "immigrants-refugees"
+  - "ethical-fashion"
 thumbnail: /assets/ref-stat1.jpg
 ---
 Every year, thousands of refugees arrive in the US to escape from fear and persecution. However, state budget cuts have drastically reduced programs serving this population affecting communities and individuals.

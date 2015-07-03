@@ -4,8 +4,8 @@ title: Mary's delightful world of couture
 author: Sandrine
 date: 2014 October 22
 categories:
-  - Immigrants &amp; Refugees
-  - Ethical Fashion
+  - "immigrants-refugees"
+  - "ethical-fashion"
 thumbnail: /assets/doc-dylane-21-of-411.jpg
 ---
 ![Doc Dylane (21 of 41)](/assets/doc-dylane-21-of-411 (1).jpg)

@@ -4,7 +4,7 @@ title: Some good news from Muses!
 author: Sandrine
 date: 2014 October 27
 categories:
-  - Muses Updates
+  - "muses-updates"
 thumbnail: /assets/image1 (1).jpg
 ---
 Dear friends, these last months have been extremely busy for Muses team. It was well worth the effort though. We have great news to share with you. These last 10 months we have been working really hard on building a complementary team and on developing a new curriculum to launch our full-scale apparel training program in 2015...and well, here it is! After recently welcoming our new teammates Caitlin (Community Outreach and Fundraising Coordinator) and Kelly (Program Development Director) we are now really excited to introduce our new Director of Training & Production Christine Tsui!

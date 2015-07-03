@@ -4,8 +4,8 @@ title: 'Susan Fedore: Local Designer with Commitment to Ethical Fashion'
 author: Nataliya
 date: 2014 August 22
 categories:
-  - Ethical Fashion
-  - Muses Updates
+  - "ethical-fashion"
+  - "muses-updates"
 thumbnail: /assets/una-4.jpg
 ---
 
