@@ -1,0 +1,6 @@
+{% assign category_node = null %}
+{% for blogCategory in site.blogCategories %}
+  {% if blogCategory.value == include.value %}
+    {% assign category_node = blogCategory %}
+  {% endif %}
+{% endfor %}

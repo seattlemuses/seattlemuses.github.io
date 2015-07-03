@@ -1,12 +1,9 @@
 {% assign categorylinks = '' %}
 {% for category_value in include.categories %}
-  {% assign category = null %}
-  {% for blogCategory in site.blogCategories %}
-    {% if blogCategory.value == category_value %}
-      {% assign category = blogCategory %}
-    {% endif %}
-  {% endfor %}
+  {% include _get-category_node.html value=category_value %}
   {% if category %}
     {% capture categorylinks %}{{ categorylinks }}{% if forloop.first == false %}, {% endif %}<a href="/blog/category/{{ category.value }}.html">{{ category.name }}</a>{% endcapture %}
+  {% else %}
+    {% capture categorylinks %}{{ categorylinks }}{% if forloop.first == false %}, {% endif %}{{ category_value }}{% endcapture %}
   {% endif %}
 {% endfor %}
