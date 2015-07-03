@@ -26,8 +26,6 @@ blogCategories: &blogcategories
     value: "muses-updates"
   - name: "Workforce Development"
     value: "workforce-development"
-  - name: "New Category"
-    value: "new-cat"
 
 # Prose configuration
 
