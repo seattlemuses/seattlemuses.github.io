@@ -1,0 +1,5 @@
+{% for blogCategory in site.blogCategories %}
+  {% if blogCategory.value == category_value %}
+    {% assign category = blogCategory %}
+  {% endif %}
+{% endfor %}
