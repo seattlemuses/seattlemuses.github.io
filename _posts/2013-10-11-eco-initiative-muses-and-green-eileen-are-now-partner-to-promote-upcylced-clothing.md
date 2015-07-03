@@ -1,9 +1,18 @@
 ---
+published: true
 title: 'Eco-Initiative: Muses and Green Eileen are now partnering to promote upcylced clothing'
-date: 2013 October 11
-categories: [ethical fashion]
-tags: [conscious fashion, eco fashion, EILEEN FISHER, ethical fashion, Fashion, Fashion Design, Green Eileen, Seattle]
 author: Sandrine
+date: 2013 October 11
+categories:
+  - Ethical Fashion
+tags:
+  - Conscious Fashion
+  - Eco Fashion
+  - EILEEN FISHER
+  - Fashion
+  - Fashion Design
+  - Green Eileen
+  - Seattle
 hero: /assets/img_8751.jpg
 ---
 Muses is proud to announce its partnership with [GREEN EILEEN](http://www.greeneileen.org/stores/), a socially-conscious clothing store located in Seattle Columbia City's neighborhood. GREEN EILEEN is a recycled clothing initiative. Customers will find professionally cleaned, gently worn [EILEEN FISHER](http://www.eileenfisher.com/EileenFisher.jsp) clothing for purchase at an affordable price.

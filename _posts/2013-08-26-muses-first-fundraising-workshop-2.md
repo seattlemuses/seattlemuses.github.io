@@ -1,9 +1,22 @@
 ---
+published: true
 title: Muses first fundraising workshop
-date: 2013 August 26
-categories: [muses updates]
-tags: [conscious consumer, Designer, ethical fashion, Fashion, Pencil skirt, refugees, resettlement, Seattle, slow fashion, social cause, Washington state]
 author: Sandrine
+date: 2013 August 26
+categories:
+  - Ethical Fashion
+  - muses updates
+tags:
+  - Conscious Consumer
+  - Designer
+  - Fashion
+  - Pencil skirt
+  - Refugees
+  - Resettlement
+  - Seattle
+  - Slow Fashion
+  - Social Cause
+  - Washington
 hero: /assets/img_8503.jpg
 ---
 On Saturday August 25th, Muses launched its first fundraising workshop. 100% of proceeds will benefits Muses' program and training. Thanks to all our participants for their contributions!

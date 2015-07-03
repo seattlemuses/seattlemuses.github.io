@@ -1,9 +1,17 @@
 ---
+published: true
 title: Muses fashion resolutions and inspirations for 2015!
-date: 2014 December 29
-categories: [ethical fashion, muses updates]
-tags: [ethical fashion, Fashion training, refugees, responsible manufacturing, Seattle, Washington state]
 author: Sandrine
+date: 2014 December 29
+categories:
+  - Ethical Fashion
+  - muses updates
+tags:
+  - Fashion training
+  - Refugees
+  - responsible manufacturing
+  - Seattle
+  - Washington
 hero: /assets/un-the-initiative-4.jpg
 ---
 A new year is starting soon! 2014 was filled with beautiful new connections and great moments. As we head into the New Year, Muses would like to share some of its **fashion resolutions for 2015:**

@@ -1,9 +1,21 @@
 ---
+published: true
 title: Seattle a hub for innovative fashion!
-date: 2014 January 27
-categories: [ethical fashion, muses updates]
-tags: [Clothing, conscious consumer, conscious fashion, Designer, ethical fashion, Fashion, Seattle, Seattle Magazine, slow fashion, Washington state]
 author: Sandrine
+date: 2014 January 27
+categories:
+  - Ethical Fashion
+  - muses updates
+tags:
+  - Clothing
+  - Conscious Consumer
+  - Conscious Fashion
+  - Designer
+  - Fashion
+  - Seattle
+  - Seattle Magazine
+  - Slow Fashion
+  - Washington
 hero: /assets/geistyle.jpg
 ---
 Fashion Designer [Gei Chan](http://seattlemuses.com/about-team.html), one of Muses' amazing advisors, was featured in the last issue of [Seattle Magazine!"](http://www.seattlemag.com/article/gei-chan-has-seattles-style-down-art)

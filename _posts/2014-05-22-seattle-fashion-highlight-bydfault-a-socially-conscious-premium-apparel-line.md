@@ -1,9 +1,18 @@
 ---
+published: true
 title: 'Seattle Fashion Highlight: BYDFAULT, a socially conscious premium apparel line'
-date: 2014 May 22
-categories: [ethical fashion]
-tags: [bydfault, ethical fashion, giving back, guilt free fashion, made in USA, Seattle fashion, socially conscious, Stéphane Boss]
 author: Nataliya
+date: 2014 May 22
+categories:
+  - Ethical Fashion
+tags:
+  - bydfault
+  - giving back
+  - guilt free fashion
+  - made in USA
+  - Seattle fashion
+  - socially conscious
+  - Stéphane Boss
 hero: /assets/stephane-boss-image-portrait.jpeg
 ---
 I met Stéphane over lunch in a local bistro in downtown Seattle. We have connected in the end of last year during a happy hour highlighting his ethically manufactured clothing and launching a bag made from kite material!

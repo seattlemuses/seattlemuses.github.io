@@ -1,9 +1,17 @@
 ---
+published: true
 title: Meaningless Fashion in Seattle? Not so sure...
-date: 2014 June 13
-categories: [ethical fashion]
-tags: [conscious consumer, conscious fashion, ethical fashion, Fair Trade, made in USA, Seattle fashion, slow fashion]
 author: Sandrine
+date: 2014 June 13
+categories:
+  - Ethical Fashion
+tags:
+  - Conscious Consumer
+  - Conscious Fashion
+  - Fair Trade
+  - made in USA
+  - Seattle fashion
+  - Slow Fashion
 hero: /assets/img_9951.jpg
 ---
 Most of what we do in life is a consumption experience. We consume services, social experiences, media and material goods. How are these shopping experiences satisfying our lives?

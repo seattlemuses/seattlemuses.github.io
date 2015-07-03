@@ -1,9 +1,19 @@
 ---
+published: true
 title: '"Change the vision": Bunka Gakuen Japanese Fashion Show at Seattle Central'
-date: 2012 October 7
-categories: [ethical fashion]
-tags: [Arts, cultural diversity, cultural exchange, design, Fashion, International fashion, Japan, Seattle Central Community College]
 author: Sandrine
+date: 2012 October 7
+categories:
+  - Ethical Fashion
+tags:
+  - Arts
+  - Cultural Diversity
+  - Cultural Exchange
+  - Design
+  - Fashion
+  - International Fashion
+  - Japan
+  - Seattle Central Community College
 hero: /assets/img_64581-e1349796343164.jpg
 ---
 ![](/assets/img_64581.jpg "Portrait")

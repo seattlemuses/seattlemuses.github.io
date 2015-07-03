@@ -1,9 +1,11 @@
 ---
+published: true
 title: The city of Seattle gives a voice to newly arrived immigrants through the Office of Immigrant and Refugee Affairs
-date: 2014 June 5
-categories: [immigrants &amp; refugees]
-tags: []
 author: Sandrine
+date: 2014 June 5
+categories:
+  - Immigrants and Refugees
+tags: ""
 hero: /assets/world-map-splash.jpg
 ---
 Did you know that the city of Seattle is home to the most diverse zip code in the country? Immigrant and refugee communities enriched our city by exposing multicultural worldviews, beliefs and life experiences. New residents from various countries (Somalia, Nepal, Bhutan, Burma, Iraq, Ethiopia etc.) have remarkable stories to share. Getting to know why and how they flee their homes, understanding their struggles and victories, discovering their new hopes and ideals help us put into perspective our own lives.

@@ -1,9 +1,22 @@
 ---
+published: true
 title: From Sarajevo to Seattle
-date: 2012 July 16
-categories: [immigrants &amp; refugees]
-tags: [Bosnia, Bosnian, Bosnian War, refugees, resettlement, Sarajevo, Seattle, social cause, success story, United States, washington]
 author: Sandrine
+date: 2012 July 16
+categories:
+  - Immigrants and Refugees
+tags:
+  - Bosnia
+  - Bosnian
+  - Bosnian War
+  - Refugees
+  - Resettlement
+  - Sarajevo
+  - Seattle
+  - Social Cause
+  - Success Story
+  - United States
+  - Washington
 hero: /assets/bc-copy.jpg
 ---
 ## SeaTac, July 5th 2012. Borka Paponjak, Resettlement Program Manager and Immigration Specialist, discusses how her family flew away from war-torn Sarajevo to resettle in the mountainous American northwest.

@@ -1,9 +1,23 @@
 ---
+published: true
 title: Why should we care?
-date: 2012 May 14
-categories: [immigrants &amp; refugees]
-tags: [Designer, eco, ethical fashion, Fashion, refugees, resettlement, Seattle, slow fashion, social cause, social entrepreneurship, social innovation, washington]
 author: Sandrine
+date: 2012 May 14
+categories:
+  - Immigrants and Refugees
+  - Ethical Fashion
+tags:
+  - Designer
+  - Eco Fashion
+  - Fashion
+  - Refugees
+  - Resettlement
+  - Seattle
+  - Slow Fashion
+  - Social Cause
+  - Social Entrepreneurship
+  - Social Innovation
+  - Washington
 hero: /assets/ref-stat1-e1345078744609.jpg
 ---
 Every year, thousands of refugees arrive in the US to escape from fear and persecution. However, state budget cuts have drastically reduced programs serving this population affecting communities and individuals.

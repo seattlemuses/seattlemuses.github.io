@@ -1,9 +1,11 @@
 ---
+published: true
 title: MUSES IS HIRING
-date: 2014 July 19
-categories: [muses updates]
-tags: []
 author: Sandrine
+date: 2014 July 19
+categories:
+  - muses updates
+tags: ""
 hero: /assets/img_8503 (1).jpg
 ---
 Muses is hiring a dynamic and passionate part-time **Sewing and Production Specialist** interested in joining a lively team to develop a customized apparel production training program for underserved immigrants and refugees.

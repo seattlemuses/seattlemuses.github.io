@@ -1,9 +1,13 @@
 ---
+published: true
 title: INDUSTRIAL SEWING AND FASHION STUDIO WANTED!
-date: 2015 January 5
-categories: [ethical fashion, immigrants &amp; refugees, muses updates]
-tags: []
 author: Sandrine
+date: 2015 January 5
+categories:
+  - Ethical Fashion
+  - Immigrants and Refugees
+  - muses updates
+tags: ""
 hero: /assets/muses-2013-studio.jpg
 ---
 ## Bellow Muses's first Studio. We liked our first sewing studio but we are now looking for a bigger space. We haven't found the ideal studio yet. We need your help!

@@ -1,9 +1,16 @@
 ---
+published: true
 title: Muses is moving in!
-date: 2015 February 7
-categories: [muses updates, workforce development]
-tags: [apparel production, conscious fashion, refugees and immigrants, workforce development]
 author: Sandrine
+date: 2015 February 7
+categories:
+  - Immigrants and Refugees
+  - muses updates
+  - workforce development
+tags:
+  - apparel production
+  - Conscious Fashion
+  - workforce development
 hero: /assets/muses-studio1.jpg
 ---
 ## After several months of hard work and thanks to all our donors and supporters, we are pleased to announce that we found a new working space for Muses next apparel production training program!

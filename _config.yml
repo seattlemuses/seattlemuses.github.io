@@ -16,11 +16,13 @@ defaults:
 
 permalink: /blog/:year/:month/:title.html
 
+# Prose configuration
+
 prose:
   rooturl: '_posts'
   siteurl: 'http://seattlemuses.github.io/'
   relativeLinks: 'http://seattlemuses.github.io/links.jsonp'
-  media: 'assets'
+  media: 'media'
   ignore:
     - index.md
     - _config.yml
@@ -41,15 +43,20 @@ prose:
         field:
             element: "text"
             label: "Date"
-            placeholder: "3 July 2015"
             type: "text"
+      - name: "categories"
+        field:
+          element: "multiselect"
+          label: "Add Categories"
+          placeholder: "Choose Categories"
+          options:
+            - name: "blah"
+              value: "blah"              
       - name: "tags"
         field:
           element: "multiselect"
           label: "Add Tags"
           placeholder: "Choose Tags"
           options:
-            - name: "Apples"
-              value: "apples"
-            - name: "Bananas"
-              value: "bananas"
+            - name: "blah"
+              value: "blah"

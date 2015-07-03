@@ -1,9 +1,16 @@
 ---
+published: true
 title: 'Susan Fedore: Local Designer with Commitment to Ethical Fashion'
-date: 2014 August 22
-categories: [ethical fashion, muses updates]
-tags: [ethical fashion, ethical manufacturing, Muses, Muses updates, Seattle designers, Susan Fedore]
 author: Nataliya
+date: 2014 August 22
+categories:
+  - Ethical Fashion
+  - muses updates
+tags:
+  - ethical manufacturing
+  - Muses
+  - Seattle designers
+  - Susan Fedore
 hero: /assets/una-4.jpg
 ---
 

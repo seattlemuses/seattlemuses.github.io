@@ -1,9 +1,11 @@
 ---
+published: true
 title: Muses is joining the Fashion Revolution Movement!
-date: 2014 April 23
-categories: [muses updates]
-tags: []
 author: Sandrine
+date: 2014 April 23
+categories:
+  - muses updates
+tags: ""
 hero: /assets/fashion-rev.jpg
 ---
 ![](/assets/WMYC_black_2.png)

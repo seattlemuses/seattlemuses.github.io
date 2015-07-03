@@ -1,9 +1,26 @@
 ---
+published: true
 title: 'Samra Ekmecic, Bosnian artist and jewelery maker, presents her stunning collection: "The Memories"'
-date: 2012 July 16
-categories: [immigrants &amp; refugees]
-tags: [Bosnian War, design, Designer, ethical fashion, Jewellery, Necklace, refugees, resettlement, Samra, Sarajevo, SeaTac Washington, Seattle, social cause, United States, washington]
 author: Sandrine
+date: 2012 July 16
+categories:
+  - Immigrants and Refugees
+  - Ethical Fashion
+tags:
+  - Bosnian War
+  - Design
+  - Designer
+  - Jewelry
+  - Necklace
+  - Refugees
+  - Resettlement
+  - Samra
+  - Sarajevo
+  - SeaTac
+  - Seattle
+  - Social Cause
+  - United States
+  - Washington
 hero: /assets/samra-750.jpg
 ---
 ## SeaTac, July 5th.

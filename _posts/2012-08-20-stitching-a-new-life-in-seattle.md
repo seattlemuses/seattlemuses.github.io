@@ -1,9 +1,11 @@
 ---
+published: true
 title: Stitching a new life in Seattle
-date: 2012 August 20
-categories: [immigrants &amp; refugees]
-tags: []
 author: Sandrine
+date: 2012 August 20
+categories:
+  - Immigrants and Refugees
+tags: ""
 hero: /assets/mansoureh-selection-e1359322706618.jpg
 ---
 ![](/assets/20000101-img_4826-australia-2012.jpg "Mansoureh")
