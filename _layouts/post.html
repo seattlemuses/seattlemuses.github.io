@@ -11,7 +11,7 @@ layout: default
     {% endif %}
   {% endfor %}
   {% if category %}
-    {% capture categorylinks %}{{ categorylinks }}{% if forloop.first == false %}, {% endif %}{% if forloop.last == true %}and {% endif %}<a href="/blog/category/{{ category.value }}.html/">{{ category.name }}</a>{% endcapture %}
+    {% capture categorylinks %}{{ categorylinks }}{% if forloop.first == false %}, {% endif %}{% if forloop.last == true %}and {% endif %}<a href="/blog/category/{{ category.value }}.html">{{ category.name }}</a>{% endcapture %}
   {% endif %}
 {% endfor %}
 
@@ -33,6 +33,5 @@ margin-bottom: 10px;
 </style>
 
 <h1>{{ page.title }}</h1>
-<p id="post-meta">{{ categorylinks }}</p>
-<p>{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • by {{ page.author }}{% endif %} {% if page.categories %} • in {{ page.categories | array_to_sentence_string }}{% endif %}</p>
+<p>{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • by {{ page.author }}{% endif %}{% if page.categories %} • in {{ categorylinks }}{% endif %}</p>
 {{ content }}
