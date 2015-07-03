@@ -2,10 +2,16 @@
 layout: default
 section: ["Stories", "Blog"]
 ---
+{% if page.category %}
+{% assign posts = site.categories[page.category] %}
 {% include _getCategoryNode.html value=page.category %}
 <h1> {{ category_node.name }} </h1>
-{% for post in site.categories[page.category] %}
-<h2> <a href="{{ post.url | prepend: site.baseurl }}"> {{ post.title }} </a> </h2>
+{% else %}
+{% assign posts = site.posts %}
+{% endif %}
+
+{% for post in posts %}
+<h1> <a href="{{ site.baseurl }}{{ post.url }}"> {{ post.title }} </a> </h1>
 <div class="row" style="padding-bottom: 10px">
   <div class="col-sm-3">
     {% if post.thumbnail %}

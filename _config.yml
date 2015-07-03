@@ -58,7 +58,7 @@ prose:
       - name: "categories"
         field:
           element: "multiselect"
-          label: "Add Categories"
+          label: "Categories"
           placeholder: "Choose Categories"
           options: *blogcategories
       - name: "thumbnail"

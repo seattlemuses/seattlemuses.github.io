@@ -1,9 +1,10 @@
 {% assign category_list = '' %}
 {% for category_value in include.categories %}
   {% include _getCategoryNode.html value=category_value %}
+  {% capture category_list %}{{ category_list }}{% unless forloop.first %}, {% endunless %}{% endcapture %}
   {% if category_node %}
-    {% capture category_list %}{{ category_list }}{% if forloop.first == false %}, {% endif %}<a href="/blog/category/{{ category_node.value }}.html">{{ category_node.name }}</a>{% endcapture %}
+    {% capture category_list %}{{ category_list }}<a href="/blog/category/{{ category_node.value }}.html">{{ category_node.name }}</a>{% endcapture %}
   {% else %}
-    {% capture category_list %}{{ category_list }}{% if forloop.first == false %}, {% endif %}{{ category_value }}{% endcapture %}
+    {% capture category_list %}{{ category_list }}{{ category_value }}{% endcapture %}
   {% endif %}
 {% endfor %}
