@@ -51,7 +51,7 @@ prose:
           label: "Add Categories"
           placeholder: "Choose Categories"
           options:
-            - name: "Immigrants &amp;& Refugees"
+            - name: "Immigrants &amp; Refugees"
               value: "immigrants-refugees"
             - name: "Ethical Fashion"
               value: "ethical-fashion"
