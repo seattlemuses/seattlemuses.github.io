@@ -15,3 +15,30 @@ defaults:
       section: ["Stories", "Blog"]
 
 permalink: /blog/:year/:month/:title.html
+
+prose:
+  rooturl: '_posts'
+  siteurl: 'http://seattlemuses.github.io/'
+  relativeLinks: 'http://seattlemuses.github.io/links.jsonp'
+  media: 'assets'
+  ignore:
+    - index.md
+    - _config.yml
+    - /_layouts
+    - /_includes
+  metadata:
+    _posts:
+      - name: "title"
+        field:
+          element: "text"
+          label: "title"
+      - name: "tags"
+        field:
+          element: "multiselect"
+          label: "Add Tags"
+          placeholder: "Choose Tags"
+          options:
+            - name: "Apples"
+              value: "apples"
+            - name: "Bananas"
+              value: "bananas"
