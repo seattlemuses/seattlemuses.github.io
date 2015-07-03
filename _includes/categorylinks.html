@@ -1,0 +1,13 @@
+{% assign categorylinks = '' %}
+{% for category_value in include.categories %}
+  {% for blogCategory in site.blogCategories %}
+    {% if blogCategory.value == category_value %}
+      {% assign category = blogCategory %}
+    {% endif %}
+  {% endfor %}
+  {% if category %}
+    {% capture categorylinks %}{{ categorylinks }}{% if forloop.first == false %}, {% endif %}<a href="/blog/category/{{ category.value }}.html">{{ category.name }}</a>{% endcapture %}
+  {% endif %}
+{% endfor %}
+
+<p>{{ post.date | date: "%b %-d, %Y" }}{% if post.author %} • by {{ post.author }}{% endif %} {% if post.categories %} • in {{ categorylinks }}{% endif %}</p>

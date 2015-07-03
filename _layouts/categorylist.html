@@ -9,19 +9,6 @@ section: ["Stories", "Blog"]
 {% endfor %}
 <h1> {{ category.name }} </h1>
 {% for post in site.categories[page.category] %}
-
-{% assign categorylinks = '' %}
-{% for post_category in post.categories %}
-  {% for data_category in site.blogCategories %}
-    {% if data_category.value == post_category %}
-      {% assign category = data_category %}
-    {% endif %}
-  {% endfor %}
-  {% if category %}
-    {% capture categorylinks %}{{ categorylinks }}{% if forloop.first == false %}, {% endif %}<a href="/blog/category/{{ category.value }}.html">{{ category.name }}</a>{% endcapture %}
-  {% endif %}
-{% endfor %}
-
 <h2> <a href="{{ post.url | prepend: site.baseurl }}"> {{ post.title }} </a> </h2>
 <div class="row" style="padding-bottom: 10px">
   <div class="col-sm-3">
@@ -32,6 +19,7 @@ section: ["Stories", "Blog"]
     {% endif %}
   </div>
   <div class="col-sm-9">
+    {% include categorylinks.html categories=post.categories %}
     <p>{{ post.date | date: "%b %-d, %Y" }}{% if post.author %} • by {{ post.author }}{% endif %} {% if post.categories %} • in {{ categorylinks }}{% endif %}</p>
     <p>{{ post.content | strip_html | truncatewords: 50 }} </p>
   </div>
