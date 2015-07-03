@@ -5,13 +5,13 @@ layout: default
 {% assign post = page %}
 {% assign categorylinks = '' %}
 {% for post_category in post.categories %}
-  {% for data_category in site.data.categories %}
-    {% if data_category.slug == post_category %}
+  {% for data_category in site.blogCategories %}
+    {% if data_category.value == post_category %}
       {% assign category = data_category %}
     {% endif %}
   {% endfor %}
   {% if category %}
-    {% capture categorylinks %}{{ categorylinks }}{% if forloop.first == false %}, {% endif %}{% if forloop.last == true %}and {% endif %}<a href="/blog/category/{{ category.slug }}/">{{ category.name }}</a>{% endcapture %}
+    {% capture categorylinks %}{{ categorylinks }}{% if forloop.first == false %}, {% endif %}{% if forloop.last == true %}and {% endif %}<a href="/blog/category/{{ category.value }}/">{{ category.name }}</a>{% endcapture %}
   {% endif %}
 {% endfor %}
 

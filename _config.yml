@@ -4,7 +4,7 @@ title: "muses : conscious fashion studio"
 description: ""
 logo: /img/logo.png
 
-# Build configuration
+# Blog configuration
 
 defaults:
   -
@@ -16,6 +16,16 @@ defaults:
       section: ["Stories", "Blog"]
 
 permalink: /blog/:year/:month/:title.html
+
+blogCategories:
+  - name: "Immigrants &amp; Refugees"
+    value: "immigrants-refugees"
+  - name: "Ethical Fashion"
+    value: "ethical-fashion"
+  - name: "Muses Updates"
+    value: "muses-updates"
+  - name: "Workforce Development"
+    value: "workforce-development"
 
 # Prose configuration
 
