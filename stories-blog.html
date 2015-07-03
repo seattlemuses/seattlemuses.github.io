@@ -10,12 +10,8 @@ section: ["Stories", "Blog"]
   </div>
   <div>
   <div class="col-md-8 col-sm-8">
-<div>
-Categories: {{post.categories | array_to_sentence_string }}
-</div>
-<div>
-Tags: {{post.tags | array_to_sentence_string }}
-</div>
+    Categories: {{post.categories | array_to_sentence_string }} <br />
+    Tags: {{post.tags | array_to_sentence_string }} <br />
     <span>{{ post.date | date: "%b %-d, %Y" }}</span> ·
     <span>{{ post.content | strip_html | truncatewords: 50 }} </span>
   </div>
