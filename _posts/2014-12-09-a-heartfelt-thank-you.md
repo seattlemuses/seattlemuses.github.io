@@ -4,14 +4,7 @@ title: A heartfelt thank you!
 author: Sandrine
 date: 2014 December 9
 categories:
-  - muses updates
-tags:
-  - concsious fashion
-  - crowdfunding
-  - Refugee
-  - Seattle
-  - social entreprise
-  - Washington
+  - Muses Updates
 hero: /assets/quotes-muses-2014.jpg
 ---
 ![Muses Celebration 2014](/assets/muses-celebration-2014.jpg?w=300)

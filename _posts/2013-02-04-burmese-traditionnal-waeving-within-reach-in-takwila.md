@@ -4,20 +4,8 @@ title: Traditional weaving of the Karenni community in Tukwila
 author: Sandrine
 date: 2013 February 4
 categories:
+  - Immigrants &amp; Refugees
   - Ethical Fashion
-  - Immigrants and Refugees
-tags:
-  - Burma
-  - Conscious Fashion
-  - Facebook
-  - Fashion
-  - Karenni
-  - Red Karen
-  - Seattle
-  - Slow Fashion
-  - Textile
-  - Tukwila Washington
-  - Weaving
 hero: /assets/doc-dylane-16-of-39-e1360024598458.jpg
 ---
 Traditional hand-made cotton and silk-woven Karenni fabrics can be found a few miles away from Seattle. In a three bedroom Tukwila apartment, Tee Meh and Neh Mo proudly showcased the woven clothes that they had recently made. Both of them are from Burma and belong to the Karenni ethnic group. In their country, traditional weaving is cherished and passed along generations.

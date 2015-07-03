@@ -5,13 +5,7 @@ author: Sandrine
 date: 2014 December 29
 categories:
   - Ethical Fashion
-  - muses updates
-tags:
-  - Fashion training
-  - Refugees
-  - responsible manufacturing
-  - Seattle
-  - Washington
+  - Muses Updates
 hero: /assets/un-the-initiative-4.jpg
 ---
 A new year is starting soon! 2014 was filled with beautiful new connections and great moments. As we head into the New Year, Muses would like to share some of its **fashion resolutions for 2015:**

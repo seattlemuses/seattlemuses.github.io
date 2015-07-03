@@ -5,15 +5,6 @@ author: Sandrine
 date: 2014 May 27
 categories:
   - Ethical Fashion
-tags:
-  - apparel workers
-  - Conscious Consumer
-  - Fashion and Apparel industry
-  - Fashion designers
-  - job opportunities
-  - made in USA
-  - Seattle
-  - workforce development
 hero: /assets/2013-fashion-career-paths_page_1.jpg
 ---
 According to the Workforce Development Council of Seattle, King County (WDC), the Seattle area's fashion and apparel industry is emerging as a field of opportunities.

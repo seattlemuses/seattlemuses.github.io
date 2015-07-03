@@ -50,13 +50,11 @@ prose:
           label: "Add Categories"
           placeholder: "Choose Categories"
           options:
-            - name: "blah"
-              value: "blah"              
-      - name: "tags"
-        field:
-          element: "multiselect"
-          label: "Add Tags"
-          placeholder: "Choose Tags"
-          options:
-            - name: "blah"
-              value: "blah"
+            - name: "Immigrants & Refugees"
+              value: "Immigrants &amp; Refugees"
+            - name: "Ethical Fashion"
+              value: "Ethical Fashion"
+            - name: "Muses Updates"
+              value: "Muses Updates"
+            - name: "Workforce Development"
+              value: "Workforce Development"

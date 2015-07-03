@@ -5,17 +5,6 @@ author: Sandrine
 date: 2012 June 20
 categories:
   - Ethical Fashion
-tags:
-  - Conscious Consumer
-  - Design
-  - Designer
-  - Eco Fashion
-  - Fashion
-  - Refugees
-  - Resettlement
-  - Slow Fashion
-  - Social Cause
-  - Social Entrepreneurship
 hero: /assets/vlisco-fashion_palais-des-sentiments_collection-01-e1345078673285.jpeg
 ---
 > As individuals we want to remind ourselves that our consuming choices matter. We want to have further opportunities to consume products that are aligned to our values; the ones that care about the environment and advocate for workers' rights. Behind the beautiful designs, shapes and fabrics accessible to us, we are looking for more transparency. We want to envision collaborative and conscious efforts between entrepreneurs, founders, craftsmen, producers and consumers.

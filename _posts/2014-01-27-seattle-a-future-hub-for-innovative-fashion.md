@@ -5,17 +5,7 @@ author: Sandrine
 date: 2014 January 27
 categories:
   - Ethical Fashion
-  - muses updates
-tags:
-  - Clothing
-  - Conscious Consumer
-  - Conscious Fashion
-  - Designer
-  - Fashion
-  - Seattle
-  - Seattle Magazine
-  - Slow Fashion
-  - Washington
+  - Muses Updates
 hero: /assets/geistyle.jpg
 ---
 Fashion Designer [Gei Chan](http://seattlemuses.com/about-team.html), one of Muses' amazing advisors, was featured in the last issue of [Seattle Magazine!"](http://www.seattlemag.com/article/gei-chan-has-seattles-style-down-art)

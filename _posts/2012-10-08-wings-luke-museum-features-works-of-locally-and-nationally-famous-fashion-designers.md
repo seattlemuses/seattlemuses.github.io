@@ -4,20 +4,8 @@ title: '"Fashion: workroom to runaway", an engaging exhibit from the Wing Luke M
 author: Sandrine
 date: 2012 October 8
 categories:
+  - Immigrants &amp; Refugees
   - Ethical Fashion
-  - Immigrants and Refugees
-tags:
-  - Asian Pacific American
-  - Clothing
-  - Conscious Fashion
-  - Conscious Consumer
-  - Designer
-  - Fashion
-  - Mass Consumption
-  - Mass Production
-  - Seattle
-  - Washington
-  - Wing Luke Asian Museum
 hero: /assets/wing-collection-1-e1350102858936.jpg
 ---
 On Saturday September 29th, the Muses team discovered the delightful [Wing Luke Museum](http://maps.google.com/maps?ll=47.598377,-122.322748&spn=1.0,1.0&q=47.598377,-122.322748%20%28Wing%20Luke%20Asian%20Museum%29&t=h "Wing Luke Asian Museum") exhibit: "Fashion: workroom to runaway" on display until **April 21, 2013.**

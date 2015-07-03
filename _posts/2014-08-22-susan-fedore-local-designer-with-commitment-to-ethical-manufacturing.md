@@ -5,12 +5,7 @@ author: Nataliya
 date: 2014 August 22
 categories:
   - Ethical Fashion
-  - muses updates
-tags:
-  - ethical manufacturing
-  - Muses
-  - Seattle designers
-  - Susan Fedore
+  - Muses Updates
 hero: /assets/una-4.jpg
 ---
 

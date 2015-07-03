@@ -5,15 +5,6 @@ author: Sandrine
 date: 2012 October 7
 categories:
   - Ethical Fashion
-tags:
-  - Arts
-  - Cultural Diversity
-  - Cultural Exchange
-  - Design
-  - Fashion
-  - International Fashion
-  - Japan
-  - Seattle Central Community College
 hero: /assets/img_64581-e1349796343164.jpg
 ---
 ![](/assets/img_64581.jpg "Portrait")
