@@ -9,10 +9,8 @@ section: ["Stories", "Blog"]
     <img src="{{ post.hero | prepend: site.baseurl }}" style="max-width:100%" />
   </div>
   <div class="col-md-8 col-sm-8">
-    <strong> Categories: {{post.categories | array_to_sentence_string }} </strong><br />
-    <strong> Tags: {{post.tags | array_to_sentence_string }} </strong> <br />
-    <span>{{ post.date | date: "%b %-d, %Y" }}</span> ·
-    <span>{{ post.content | strip_html | truncatewords: 50 }} </span>
+    <p>{{ post.date | date: "%b %-d, %Y" }}{% if post.author %} • by {{ post.author }}{% endif %} {% if post.categories %} • in {{ post.categories | array_to_sentence_string }}{% endif %}</p>
+    {{ post.excerpt }}
   </div>
 </div>
 {% endfor %}
