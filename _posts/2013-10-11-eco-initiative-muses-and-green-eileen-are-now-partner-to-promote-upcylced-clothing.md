@@ -16,14 +16,19 @@ Thanks to Green Eileen, Muses is part of an exciting adventure. We will keep you
 
 Following are few pictures of the production process.
 
-Eileen Fisher clothing is constructed from high quality fabrics and designed with a timeless elegance that endures the test of time. We are up-cycling  cashmere, silk, organic cotton and linen.
+Eileen Fisher clothing is constructed from high quality fabrics and designed with a timeless elegance that endures the test of time. We are up-cycling cashmere, silk, organic cotton and linen.
 
-[![IMG_8731](/assets/img_8731.jpg?w=470)](http://musesseattle.files.wordpress.com/2013/10/img_8731.jpg)
+![IMG_8731](/assets/img_8731.jpg?w=470)
 
-[![IMG_8719](/assets/img_8719.jpg?w=470)](http://musesseattle.files.wordpress.com/2013/10/img_8719.jpg)
+![IMG_8719](/assets/img_8719.jpg?w=470)
 
-[![IMG_8722](/assets/img_8722.jpg?w=470)](http://musesseattle.files.wordpress.com/2013/10/img_8722.jpg)
+![IMG_8722](/assets/img_8722.jpg?w=470)
 
 Ack, Annie and Yuki are learning how to use a pattern and to cut clothes ingeniously regarding the fabric' defects and shape.
 
-[![IMG_8733](/assets/img_8733.jpg?w=470)](http://musesseattle.files.wordpress.com/2013/10/img_8733.jpg)   [![IMG_8718](/assets/img_8718.jpg?w=470)](http://musesseattle.files.wordpress.com/2013/10/img_8718.jpg)[![IMG_8705](/assets/img_8705.jpg?w=470)](http://musesseattle.files.wordpress.com/2013/10/img_8705.jpg)[![IMG_8698](/assets/img_8698.jpg?w=470)](http://musesseattle.files.wordpress.com/2013/10/img_8698.jpg)[![IMG_8688](/assets/img_8688.jpg?w=470)](http://musesseattle.files.wordpress.com/2013/10/img_8688.jpg)[![IMG_8751](/assets/img_8751 (1).jpg)](/assets/img_8751 (1).jpg)
+![IMG_8733](/assets/img_8733.jpg?w=470)
+![IMG_8718](/assets/img_8718.jpg?w=470)
+![IMG_8705](/assets/img_8705.jpg?w=470)
+![IMG_8698](/assets/img_8698.jpg?w=470)
+![IMG_8688](/assets/img_8688.jpg?w=470)
+![IMG_8751](/assets/img_8751 (1).jpg)

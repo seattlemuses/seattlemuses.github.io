@@ -12,8 +12,8 @@ hero: /assets/factorycollapse.jpg
 
 Last April, thousand of workers died after the collapse of a Factory in Bangladesh. This tragic accident pushed North American and European retailers to work on drafting a factory safety pact. This pact is a five-year commitment to improve factories safety conditions for workers in Bangladesh. If some differences are still dividing US and European retailers, this agreement is a stepping stone toward safer and more responsible manufacturing practices. A recent article from [Quartz](http://qz.com/102528/here-are-the-differences-between-the-us-and-european-retailer-plans-to-make-bangladeshi-factories-safer/) presents a visual explainer and a breakdown of how the two plans differ:
 
-[![bangladesh-pact-comparison2](/assets/bangladesh-pact-comparison2.png?w=312)](http://musesseattle.files.wordpress.com/2013/07/bangladesh-pact-comparison2.png)
+![bangladesh-pact-comparison2](/assets/bangladesh-pact-comparison2.png?w=312)
 
-Muses aims at providing fashion designers and manufacturers access to a local qualified workforce while protecting workers’ rights and conditions of work. In our conscious fashion studio our clients can meet directly with people in charge of their production.
+Muses aims at providing fashion designers and manufacturers access to a local qualified workforce while protecting workers' rights and conditions of work. In our conscious fashion studio our clients can meet directly with people in charge of their production.
 
 Maintaining good relationships and trust are key elements of the services that Muses provides to both its customers and students.

@@ -20,4 +20,6 @@ Bellow are few of our favorite styles:
 
 ![](/assets/PU_Fall2013_Final-42.jpg)
 
-![](/assets/PU_Fall2013_Final-14.jpg)![](/assets/PrairieUndergroundWinter2013-053-Final-Hi.jpg)
+![](/assets/PU_Fall2013_Final-14.jpg)
+
+![](/assets/PrairieUndergroundWinter2013-053-Final-Hi.jpg)
