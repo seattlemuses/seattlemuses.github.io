@@ -4,18 +4,18 @@ section: ["Stories", "Blog"]
 ---
 {% for post in site.posts %}
 <h1> <a href="{{ post.url | prepend: site.baseurl }}"> {{ post.title }} </a> </h1>
-<div>
-Categories: {{post.categories | array_to_sentence_string }}
-</div>
-<div>
-Tags: {{post.tags | array_to_sentence_string }}
-</div>
 <div class="row" style="padding-bottom: 10px">
   <div class="col-md-4 col-sm-4">
     <img src="{{ post.hero | prepend: site.baseurl }}" style="max-width:100%" />
   </div>
   <div>
   <div class="col-md-8 col-sm-8">
+<div>
+Categories: {{post.categories | array_to_sentence_string }}
+</div>
+<div>
+Tags: {{post.tags | array_to_sentence_string }}
+</div>
     <span>{{ post.date | date: "%b %-d, %Y" }}</span> ·
     <span>{{ post.content | strip_html | truncatewords: 50 }} </span>
   </div>
