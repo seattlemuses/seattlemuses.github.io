@@ -5,7 +5,7 @@ author: Sandrine
 date: 2014 May 18
 categories:
   - Muses Updates
-hero: /assets/namita-paul-work-samples.jpg
+thumbnail: /assets/namita-paul-work-samples.jpg
 ---
 Namita Paul, Muses' Board of Directors, former fashion designer and instructor, is also a talented artist. Namita has been selected to participate in the The Seventeenth Annual Undergraduate Research Symposium organized by the University of Washington. She is currently presenting samples of her work at the Odegaard Undergraduate Library.
 

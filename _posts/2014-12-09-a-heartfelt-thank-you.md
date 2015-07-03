@@ -5,7 +5,7 @@ author: Sandrine
 date: 2014 December 9
 categories:
   - Muses Updates
-hero: /assets/quotes-muses-2014.jpg
+thumbnail: /assets/quotes-muses-2014.jpg
 ---
 ![Muses Celebration 2014](/assets/muses-celebration-2014.jpg?w=300)
 Caitlin (Muses crowdfunding coordinator), Sandrine ( Muses co-founder), Kirin (Muses supporter!), Esther (Muses co-founder)

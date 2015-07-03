@@ -5,7 +5,7 @@ author: Sandrine
 date: 2014 October 31
 categories:
   - Immigrants &amp; Refugees
-hero: /assets/forced-to-flee.jpg
+thumbnail: /assets/forced-to-flee.jpg
 ---
 *"I dream of a world where poor villagers are considered as worthy of human rights as wealthy people in cities..If I were the president of Burma I will teach soldiers how to become peacemakers.."* this is the voice of a young boy from Burma. Thousand of youth from Burma face persecution, oppression and violence. Their personal stories and hopes need to be voiced.
 

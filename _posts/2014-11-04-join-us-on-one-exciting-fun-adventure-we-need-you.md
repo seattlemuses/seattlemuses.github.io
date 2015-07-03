@@ -5,7 +5,7 @@ author: Esther
 date: 2014 November 4
 categories:
   - Muses Updates
-hero: /assets/img_7547.jpg
+thumbnail: /assets/img_7547.jpg
 ---
 ![Niang working on the next creation during our pilot training. Can't wait to start classes again!](/assets/img_7547 (1).jpg)
 Niang working on the next creation during our pilot training. Can't wait to start classes again!

@@ -6,7 +6,7 @@ date: 2013 September 7
 categories:
   - Ethical Fashion
   - Muses Updates
-hero: /assets/img_8658.jpg
+thumbnail: /assets/img_8658.jpg
 ---
 Save the date! Our next fashion workshop is coming soon! Learn to make your own perfect T-shirt and support an awesome cause! For more info and to reserve your spot email us!: muses.seattle@gmail.com
 

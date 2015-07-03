@@ -5,7 +5,7 @@ author: Sandrine
 date: 2014 April 23
 categories:
   - Muses Updates
-hero: /assets/fashion-rev.jpg
+thumbnail: /assets/fashion-rev.jpg
 ---
 ![](/assets/WMYC_black_2.png)
 

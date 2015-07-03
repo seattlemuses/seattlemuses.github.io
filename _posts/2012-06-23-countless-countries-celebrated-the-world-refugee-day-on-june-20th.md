@@ -6,7 +6,7 @@ date: 2012 June 23
 categories:
   - Immigrants &amp; Refugees
   - Ethical Fashion
-hero: /assets/300px-ombrelles.jpeg
+thumbnail: /assets/300px-Ombrelles.jpg
 ---
 ![Français : Ombrelle, France, début XXe siècle](/assets/300px-Ombrelles.jpg "Français : Ombrelle, France, début XXe siècle")
 "Ombrelle", Umbrella, a symbol for the world refugee day (Photo credit: [Wikipedia](http://commons.wikipedia.org/wiki/File:Ombrelles.jpg))

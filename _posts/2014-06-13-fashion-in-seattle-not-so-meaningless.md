@@ -5,7 +5,7 @@ author: Sandrine
 date: 2014 June 13
 categories:
   - Ethical Fashion
-hero: /assets/img_9951.jpg
+thumbnail: /assets/img_9951.jpg
 ---
 Most of what we do in life is a consumption experience. We consume services, social experiences, media and material goods. How are these shopping experiences satisfying our lives?
 

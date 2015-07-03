@@ -5,7 +5,7 @@ author: Sandrine
 date: 2013 July 17
 categories:
   - Ethical Fashion
-hero: /assets/factorycollapse.jpg
+thumbnail: /assets/factorycollapse.jpg
 ---
 ![Volunteers use a length of textile as a slide to move victims Thursday from the rubble of a collapsed building in Savar, Bangladesh.](/assets/167414362-066b031a3e7bd7ddf7dfc23852f813b2619fd68f-s40.jpg "Volunteers use a length of textile as a slide to move victims Thursday from the rubble of a collapsed building in Savar, Bangladesh.")
 

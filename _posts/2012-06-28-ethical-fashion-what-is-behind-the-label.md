@@ -5,7 +5,7 @@ author: Sandrine
 date: 2012 June 28
 categories:
   - Ethical Fashion
-hero: /assets/fond-collage-e1350103112404.jpg
+thumbnail: /assets/fond-collage-e1350103112404.jpg
 ---
 ![](/assets/ethical-fashion-burkina.jpg?w=150 "Custom made top from Ouagadougou Burkina Faso")
 

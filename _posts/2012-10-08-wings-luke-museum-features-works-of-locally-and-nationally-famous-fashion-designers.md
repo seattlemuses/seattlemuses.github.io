@@ -6,7 +6,7 @@ date: 2012 October 8
 categories:
   - Immigrants &amp; Refugees
   - Ethical Fashion
-hero: /assets/wing-collection-1-e1350102858936.jpg
+thumbnail: /assets/wing-collection-1-e1350102858936.jpg
 ---
 On Saturday September 29th, the Muses team discovered the delightful [Wing Luke Museum](http://maps.google.com/maps?ll=47.598377,-122.322748&spn=1.0,1.0&q=47.598377,-122.322748%20%28Wing%20Luke%20Asian%20Museum%29&t=h "Wing Luke Asian Museum") exhibit: "Fashion: workroom to runaway" on display until **April 21, 2013.**
 

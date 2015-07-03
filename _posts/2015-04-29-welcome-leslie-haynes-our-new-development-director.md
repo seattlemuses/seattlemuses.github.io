@@ -5,7 +5,7 @@ author: Sandrine
 date: 2015 April 29
 categories:
   - Muses Updates
-hero: /assets/1b173fc (1).jpg
+thumbnail: /assets/1b173fc (1).jpg
 ---
 We are delighted to welcome Leslie Haynes to our team! Leslie is joining Muses as our new Development Director. We met Leslie a year ago at a professional meeting while she was the Director of Pathways to Careers at Seattle Community College District. During our conversation, Leslie mentioned her commitment and passion for promoting equal access to education and job opportunities to underserved communities. We talked about work, life and...fashion of course! A couple of months ago, life reconnected us and "Voila!". Leslie is now an active member of Muses team. We are honored to have Leslie share her experience and expertise.
 

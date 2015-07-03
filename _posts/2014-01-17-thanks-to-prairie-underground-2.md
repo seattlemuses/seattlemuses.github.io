@@ -6,7 +6,7 @@ date: 2014 January 17
 categories:
   - Ethical Fashion
   - Muses Updates
-hero: /assets/pu_fall2013_final-13 (1).jpg
+thumbnail: /assets/pu_fall2013_final-13 (1).jpg
 ---
 2014 is going to be a promising year! We would like to start this new year by thanking one of our supporters: the Fashion House [Prairie Underground!](http://www.prairieunderground.com/index.html) We thank Davora Lindner and Camilla Eckersley for their generous donation that will help Muses continue growing as an organization this year. We are so excited to have Seattle-based fashion designers supporting one of Muses' main mission: promoting responsible manufacturing practices and conscious consumption habits.
 

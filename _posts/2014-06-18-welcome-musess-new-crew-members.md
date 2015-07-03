@@ -5,7 +5,7 @@ author: Sandrine
 date: 2014 June 18
 categories:
   - Muses Updates
-hero: /assets/profile-picture.jpg
+thumbnail: /assets/profile-picture.jpg
 ---
 Muses is excited to welcome two new talented members to our team! Please meet Kelly Chang and Caitlin Cordell. Welcome aboard ladies!
 

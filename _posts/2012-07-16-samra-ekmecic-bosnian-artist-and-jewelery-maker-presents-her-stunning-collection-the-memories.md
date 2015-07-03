@@ -6,7 +6,7 @@ date: 2012 July 16
 categories:
   - Immigrants &amp; Refugees
   - Ethical Fashion
-hero: /assets/samra-750.jpg
+thumbnail: /assets/samra-750.jpg
 ---
 ## SeaTac, July 5th.
 

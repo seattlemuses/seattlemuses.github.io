@@ -6,7 +6,7 @@ date: 2014 August 22
 categories:
   - Ethical Fashion
   - Muses Updates
-hero: /assets/una-4.jpg
+thumbnail: /assets/una-4.jpg
 ---
 
 ![Una](/assets/una.jpg?w=300)

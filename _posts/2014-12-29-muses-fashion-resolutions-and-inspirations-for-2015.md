@@ -6,7 +6,7 @@ date: 2014 December 29
 categories:
   - Ethical Fashion
   - Muses Updates
-hero: /assets/un-the-initiative-4.jpg
+thumbnail: /assets/un-the-initiative-4.jpg
 ---
 A new year is starting soon! 2014 was filled with beautiful new connections and great moments. As we head into the New Year, Muses would like to share some of its **fashion resolutions for 2015:**
 
