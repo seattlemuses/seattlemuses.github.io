@@ -19,8 +19,8 @@ section: ["Stories", "Blog"]
     {% endif %}
   </div>
   <div class="col-sm-9">
-    {% include _genCategoryLinks.html categories=post.categories %}
-    <p>{{ post.date | date: "%b %-d, %Y" }}{% if post.author %} • by {{ post.author }}{% endif %} {% if post.categories %} • in {{ categorylinks }}{% endif %}</p>
+    {% include _getCategoryList.html categories=post.categories %}
+    <p>{{ post.date | date: "%b %-d, %Y" }}{% if post.author %} • by {{ post.author }}{% endif %} {% if post.categories %} • in {{ category_list }}{% endif %}</p>
     <p>{{ post.content | strip_html | truncatewords: 50 }} </p>
   </div>
 </div>
