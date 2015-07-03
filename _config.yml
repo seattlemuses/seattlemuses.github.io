@@ -59,3 +59,8 @@ prose:
               value: "Muses Updates"
             - name: "Workforce Development"
               value: "Workforce Development"
+      - name: "thumbnail"
+        field:
+            element: "text"
+            label: "Thumbnail"
+            type: "text"
