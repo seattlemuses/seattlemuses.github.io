@@ -32,6 +32,12 @@ prose:
         field:
           element: "text"
           label: "title"
+      - name: "date"
+        field:
+            element: "text"
+            label: "Date"
+            placeholder: "3 July 2015"
+            type: "text"
       - name: "tags"
         field:
           element: "multiselect"
