@@ -11,11 +11,11 @@ We are delighted to welcome Leslie Haynes to our team! Leslie is joining Muses a
 ![1b173fc](/assets/1b173fc.jpg)
 
 > I was born in British Columbia and came of age in the Deep South. My always-adventurous father was in the habit of saying to his four daughters and wife, "Hey, girls, how'd you like to move to ______?" That sentence always ended with his most recent travel quest. We were a bit stunned when Alabama actually stuck, and we moved from one end of the continent to the other. He had two laser-like goals: to fulfill his promise of putting his four daughters through college and to run the best, first racially-integrated medical clinic in Perry County, Alabama.
-> 
-> I stayed in the South to study and then headed to the Berkshires to teach struggling students at a quirky boarding school. I have drifted from the classroom but always focused on education initiatives for students with considerable barriers to success. In the past two decades, I've worked with big foundations, governmental departments, and school developers on major reform strategies, all aimed at helping students prep for and succeed at college and in careers.
-> 
+>
+> I stayed in the South to study and then headed to the Berkshires to teach struggling students at a quirky boarding school. I have drifted from the classroom but always focused on education initiatives for students with considerable barriers to success. In the past two decades, I've worked with big foundations, governmental departments, and school developers on major reform strategies, all aimed at helping students prep for and succeed at college and in careers.
+>
 > I am most proud of the work I've done with my husband to form a nonprofit focused on issues of access here in our adopted hometown of Seattle. We Will Find a Way works with businesses to eliminate physical barriers for people with limited mobility.
-> 
+>
 > My muses have always been teachers. I come from a long line of them. Tough teachers. Dedicated teachers. Teachers who put the needs of their students first. It is a rare and wonderful thing to watch a master teacher work, and I have had the good fortune of being taught by many. I see myself as just trying to return the favor".
 
-*Thank you Leslie for contributing to Muses' work!*
+**Thank you Leslie for contributing to Muses' work!**
