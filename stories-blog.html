@@ -8,7 +8,6 @@ section: ["Stories", "Blog"]
   <div class="col-md-4 col-sm-4">
     <img src="{{ post.hero | prepend: site.baseurl }}" style="max-width:100%" />
   </div>
-  <div>
   <div class="col-md-8 col-sm-8">
     Categories: {{post.categories | array_to_sentence_string }} <br />
     Tags: {{post.tags | array_to_sentence_string }} <br />
