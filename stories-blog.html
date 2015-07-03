@@ -5,12 +5,12 @@ section: ["Stories", "Blog"]
 {% for post in site.posts %}
 <h1> <a href="{{ post.url | prepend: site.baseurl }}"> {{ post.title }} </a> </h1>
 <div class="row" style="padding-bottom: 10px">
-  <div class="col-md-4 col-sm-4">
+  <div class="col-md-2 col-sm-2">
     {% if post.hero %}
     <img src="{{ site.baseurl }}{{ post.hero }}" style="max-width:100%" />
     {% endif %}
   </div>
-  <div class="col-md-8 col-sm-8">
+  <div class="col-md-10 col-sm-10">
     <p>{{ post.date | date: "%b %-d, %Y" }}{% if post.author %} • by {{ post.author }}{% endif %} {% if post.categories %} • in {{ post.categories | array_to_sentence_string }}{% endif %}</p>
     <p>{{ post.content | strip_html | truncatewords: 50 }} </p>
   </div>
