@@ -18,7 +18,7 @@ Colorful, meaningful, willful, careful mark the brands, fabrics and designers th
 + **WHERE:** Brazil
 + **WHY we like it:** Osklen uses the most innovative eco-fabrics in its collections, such as pupunha wood for belts, fish skin for shoes and PET from recycled plastic bottles. Oskar Metsavaht is also an environmentalist and founder of [e-Institute](http://www.institutoe.org.br/parceiros), a non-profit organization dedicated to raising awareness for sustainable human development.
 
-![](/assets/osklen-man1.jpg = 100x200 "Osklen 2012 Collection")
+![](/assets/osklen-man1.jpg "Osklen 2012 Collection")
 Osklen 2012 Collection
 
 ![](/assets/osklen-lady1.png "Osklen 2012 Collection")
@@ -30,10 +30,10 @@ Osklen 2012 Collection
 + **WHERE:** Fabrics come from west, central and east Africa****.****
 + **WHY we like them:** Both SUNO and Vlisco use colorful fashion fabrics that incarnate elegance, imagination, and quality.
 
-![](http://seattlewatch2012.files.wordpress.com/2012/06/suno-spring-2012.jpg =100x200 "Suno-Spring-2012")
+![](http://seattlewatch2012.files.wordpress.com/2012/06/suno-spring-2012.jpg "Suno-Spring-2012")
 Suno-Spring-2012
 
-![](http://seattlewatch2012.files.wordpress.com/2012/06/vlisco-fashion_palais-des-sentiments_collection-01.jpg =100x200)
+![](http://seattlewatch2012.files.wordpress.com/2012/06/vlisco-fashion_palais-des-sentiments_collection-01.jpg)
 Vlisco-Fashion_Palais-des-Sentiments_collection
 
 ![](http://seattlewatch2012.files.wordpress.com/2012/06/vlisco-fashion_palais-des-sentiments_collection-02.jpg "Vlisco-Fashion_Palais-des-Sentiments_collection-02")
