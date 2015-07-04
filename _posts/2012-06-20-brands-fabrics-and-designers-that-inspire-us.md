@@ -19,6 +19,7 @@ Colorful, meaningful, willful, careful mark the brands, fabrics and designers th
 - **WHY we like it:** Osklen uses the most innovative eco-fabrics in its collections, such as pupunha wood for belts, fish skin for shoes and PET from recycled plastic bottles. Oskar Metsavaht is also an environmentalist and founder of [e-Institute](http://www.institutoe.org.br/parceiros), a non-profit organization dedicated to raising awareness for sustainable human development.
 
 ![](/assets/osklen-man1.jpg)
+
 Osklen 2012 Collection
 
 ![](/assets/osklen-lady1.png)
