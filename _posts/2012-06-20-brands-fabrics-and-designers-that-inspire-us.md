@@ -23,9 +23,11 @@ Colorful, meaningful, willful, careful mark the brands, fabrics and designers th
 ![Osklen](/assets/osklen-man1.jpg)
 *Osklen 2012 Collection*
 
+*Osklen 2012*
+
 ![](/assets/osklen-lady1.png)
 
-Osklen 2012 Collection
+*Osklen 2012 Collection*
 
 ## Fabrics
 + **WHO:** Fabrics used by [SUNO](http://www.sunony.com/), [Vlisco](http://www.vlisco.com/)
