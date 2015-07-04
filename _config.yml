@@ -31,7 +31,7 @@ blogCategories: &blogcategories
 
 prose:
   rooturl: ''
-  siteurl: 'http://seattlemuses.github.io'
+  siteurl: 'http://seattlemuses.github.io/'
   relativeLinks: 'http://seattlemuses.github.io/links.jsonp'
   media: 'assets'
   ignore:
