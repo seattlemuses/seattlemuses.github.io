@@ -14,4 +14,4 @@ Our dear former mentor Dan and his wife Erika are publishing poignant illustrati
 
 They need support to publish the full-color book with over 200 images telling the history and story of the struggles that impact so many children. Checkout their Kickstarter campaign, and support a cause that is worth it!
 
-<iframe frameborder="0" scrolling="no" src="https://www.kickstarter.com/projects/433142527/forced-to-flee-visual-stories-by-refugee-youth-fro/widget/video.html" data-ratio="0.7489361702127659" data-width="470" data-height="352" style="display: block; margin: 0px; width: 367px; height: 274.859574468085px;"></iframe>
+<iframe width="640" height="480" src="https://www.kickstarter.com/projects/433142527/forced-to-flee-visual-stories-by-refugee-youth-fro/widget/video.html" frameborder="0" scrolling="no"> </iframe>
