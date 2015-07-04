@@ -33,7 +33,7 @@ prose:
   rooturl: ''
   siteurl: 'http://seattlemuses.github.io/'
   relativeLinks: 'http://seattlemuses.github.io/links.jsonp'
-  media: 'media'
+  media: 'assets'
   ignore:
     - index.md
     - _config.yml
