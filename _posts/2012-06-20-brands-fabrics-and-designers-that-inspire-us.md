@@ -30,7 +30,7 @@ Osklen 2012 Collection
 + **WHERE:** Fabrics come from west, central and east Africa****.****
 + **WHY we like them:** Both SUNO and Vlisco use colorful fashion fabrics that incarnate elegance, imagination, and quality.
 
-![](http://seattlewatch2012.files.wordpress.com/2012/06/suno-spring-2012.jpg "Suno-Spring-2012")
+![](http://seattlewatch2012.files.wordpress.com/2012/06/suno-spring-2012.jpg =100x200 "Suno-Spring-2012")
 Suno-Spring-2012
 
 ![](http://seattlewatch2012.files.wordpress.com/2012/06/vlisco-fashion_palais-des-sentiments_collection-01.jpg)
