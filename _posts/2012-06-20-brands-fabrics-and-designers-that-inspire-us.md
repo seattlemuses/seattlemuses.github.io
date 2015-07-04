@@ -8,6 +8,7 @@ categories:
 thumbnail: "http://seattlewatch2012.files.wordpress.com/2012/06/vlisco-fashion_palais-des-sentiments_collection-01.jpg"
 ---
 
+
 > As individuals we want to remind ourselves that our consuming choices matter. We want to have further opportunities to consume products that are aligned to our values; the ones that care about the environment and advocate for workers' rights. Behind the beautiful designs, shapes and fabrics accessible to us, we are looking for more transparency. We want to envision collaborative and conscious efforts between entrepreneurs, founders, craftsmen, producers and consumers.
 
 Colorful, meaningful, willful, careful mark the brands, fabrics and designers that inspire us. We would like to share some of our favorite eco-friendly and ethical fashion trends.
@@ -18,13 +19,10 @@ Colorful, meaningful, willful, careful mark the brands, fabrics and designers th
 - **WHERE:** Brazil
 - **WHY we like it:** Osklen uses the most innovative eco-fabrics in its collections, such as pupunha wood for belts, fish skin for shoes and PET from recycled plastic bottles. Oskar Metsavaht is also an environmentalist and founder of [e-Institute](http://www.institutoe.org.br/parceiros), a non-profit organization dedicated to raising awareness for sustainable human development.
 
-![Osklen](/assets/osklen-man1.jpg)
+![](/assets/osklen-man1.jpg)
 **Osklen 2012 Collection**
 
-**Osklen 2012**
-
 ![](/assets/osklen-lady1.png)
-
 **Osklen 2012 Collection**
 
 ## Fabrics
@@ -34,19 +32,19 @@ Colorful, meaningful, willful, careful mark the brands, fabrics and designers th
 + **WHY we like them:** Both SUNO and Vlisco use colorful fashion fabrics that incarnate elegance, imagination, and quality.
 
 ![](http://seattlewatch2012.files.wordpress.com/2012/06/suno-spring-2012.jpg)
-Suno-Spring-2012
+**Suno-Spring-2012**
 
 ![](http://seattlewatch2012.files.wordpress.com/2012/06/vlisco-fashion_palais-des-sentiments_collection-01.jpg)
-Vlisco-Fashion_Palais-des-Sentiments_collection
+**Vlisco-Fashion_Palais-des-Sentiments_collection**
 
-![](http://seattlewatch2012.files.wordpress.com/2012/06/vlisco-fashion_palais-des-sentiments_collection-02.jpg "Vlisco-Fashion_Palais-des-Sentiments_collection-02")
-Vlisco-Fashion_Palais-des-Sentiments_collection
+![](http://seattlewatch2012.files.wordpress.com/2012/06/vlisco-fashion_palais-des-sentiments_collection-02.jpg)
+**Vlisco-Fashion_Palais-des-Sentiments_collection**
 
-![](/assets/vlisco-fashion_palais-des-sentiments_collection-10.jpg "Vlisco-Fashion_Palais-des-Sentiments_collection-10")
-Vlisco-Fashion_Palais-des-Sentiments_collection
+![](/assets/vlisco-fashion_palais-des-sentiments_collection-10.jpg)
+**Vlisco-Fashion_Palais-des-Sentiments_collection**
 
-![](http://seattlewatch2012.files.wordpress.com/2012/06/vlisco-fashion_palais-des-sentiments_collection-12.jpg "Vlisco-Fashion_Palais-des-Sentiments_collection-12")
-Vlisco-Fashion_Palais-des-Sentiments_collection
+![](http://seattlewatch2012.files.wordpress.com/2012/06/vlisco-fashion_palais-des-sentiments_collection-12.jpg)
+**Vlisco-Fashion_Palais-des-Sentiments_collection**
 
 ## Designer
 + **WHO:** [Kristina Constantine.](http://kristinaconstantine.com/designer.html)
@@ -55,7 +53,7 @@ Vlisco-Fashion_Palais-des-Sentiments_collection
 + **WHY we like Kristina:** Kristina is a mentor for us. Kristina provided us with valuable recommendations for our project MUSES. Her story and engagement for the refugee communities is inspiring.
 
 ![](http://seattlewatch2012.files.wordpress.com/2012/06/ckconstantine_01.jpg)
-Kristina Constantine
+**Kristina Constantine**
 
 ## Concepts
 + **WHO:** [The Bottletop](http://bottletop.org/) and the [Social Studio](http://www.thesocialstudio.org/The_Social_Studio___Remixed_Design/TSS.html)
@@ -63,13 +61,14 @@ Kristina Constantine
 + **WHERE:** The Bottletop is based in UK but works with communities from Malawi, Rwanda, Mozambique, Salvador, and Brazil. The Social Studio is located in Melbourne, Australia and works with Melbourne-based refugee communities.
 + **WHY we like these projects:** These two projects engage consumers in conscious and meaningful purchases. Like us, The Bottletop and the Social Studio believe that Fashion can help raise funds and awareness for social causes. The Bottletop uses recycled materials such as ring pulls to design appealing and ethical accessories. The project provides job opportunities and sexual health educational training to young people. The Social Studio helps youth to get jobs in retail and hospitality. We had a chance to meet in person Grace McQuilten Founder of the Social Studio. Grace is such a bright, brave and diligent woman!
 
-![](/assets/bottletop-eco-collection.jpg?w=235 "Bottletop-eco-collection")
-Bottletop-eco-collection
+![](/assets/bottletop-eco-collection.jpg)
+**Bottletop-eco-collection**
 
-![](http://seattlewatch2012.files.wordpress.com/2012/06/bottletop-bag.jpg "bottletop bag")
-Bottletop, bag made from recycled aluminum ring pulls.
+![](http://seattlewatch2012.files.wordpress.com/2012/06/bottletop-bag.jpg)
+**Bottletop, bag made from recycled aluminum ring pulls.**
 
-![](http://seattlewatch2012.files.wordpress.com/2012/06/the-ss.jpg "The SS")]
-The Social Studio
+![](http://seattlewatch2012.files.wordpress.com/2012/06/the-ss.jpg)
+**The Social Studio**
 
-![](http://seattlewatch2012.files.wordpress.com/2012/06/the-social-st.jpg "The Social St")The Social Studio
+![](http://seattlewatch2012.files.wordpress.com/2012/06/the-social-st.jpg)
+**The Social Studio**
