@@ -3,21 +3,23 @@ layout: default
 ---
 
 <style>
-.container img {
+.muses-post-content img {
   display: block;
-  margin: 10px auto;
+  margin: 0px auto;
   max-width: 100%;
   max-height: 300px;
 }
 
-.container img + strong {
+.muses-post-content img + strong {
   display: block;
   text-align: center;
-  margin-bottom: 10px;
+  padding: 5px;
 }
 </style>
 
 <h1>{{ page.title }}</h1>
 {% include _getCategoryList.html categories=page.categories %}
 <p>{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • by {{ page.author }}{% endif %}{% if page.categories %} • in {{ category_list }}{% endif %}</p>
+<div class="muses-post-content">
 {{ content }}
+</div>
