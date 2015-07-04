@@ -13,15 +13,15 @@ thumbnail: "http://seattlewatch2012.files.wordpress.com/2012/06/vlisco-fashion_p
 Colorful, meaningful, willful, careful mark the brands, fabrics and designers that inspire us. We would like to share some of our favorite eco-friendly and ethical fashion trends.
 
 ## Brands
-+ **WHO:** [Osklen](http://store.osklen.com/)
-+ **WHAT:** Osklen is a Brazilian sportswear clothing company, owned and created in 1989 by Brazilian Oskar Metsavaht (a sport medicine specialist). Oskar is Brazil's pioneer in the new luxury movement of sport wear clothing.
-+ **WHERE:** Brazil
-+ **WHY we like it:** Osklen uses the most innovative eco-fabrics in its collections, such as pupunha wood for belts, fish skin for shoes and PET from recycled plastic bottles. Oskar Metsavaht is also an environmentalist and founder of [e-Institute](http://www.institutoe.org.br/parceiros), a non-profit organization dedicated to raising awareness for sustainable human development.
+- **WHO:** [Osklen](http://store.osklen.com/)
+- **WHAT:** Osklen is a Brazilian sportswear clothing company, owned and created in 1989 by Brazilian Oskar Metsavaht (a sport medicine specialist). Oskar is Brazil's pioneer in the new luxury movement of sport wear clothing.
+- **WHERE:** Brazil
+- **WHY we like it:** Osklen uses the most innovative eco-fabrics in its collections, such as pupunha wood for belts, fish skin for shoes and PET from recycled plastic bottles. Oskar Metsavaht is also an environmentalist and founder of [e-Institute](http://www.institutoe.org.br/parceiros), a non-profit organization dedicated to raising awareness for sustainable human development.
 
-![](/assets/osklen-man1.jpg "Osklen 2012 Collection")
+![](/assets/osklen-man1.jpg)
 Osklen 2012 Collection
 
-![](/assets/osklen-lady1.png "Osklen 2012 Collection")
+![](/assets/osklen-lady1.png)
 Osklen 2012 Collection
 
 ## Fabrics
@@ -30,7 +30,7 @@ Osklen 2012 Collection
 + **WHERE:** Fabrics come from west, central and east Africa****.****
 + **WHY we like them:** Both SUNO and Vlisco use colorful fashion fabrics that incarnate elegance, imagination, and quality.
 
-![](http://seattlewatch2012.files.wordpress.com/2012/06/suno-spring-2012.jpg "Suno-Spring-2012")
+![](http://seattlewatch2012.files.wordpress.com/2012/06/suno-spring-2012.jpg)
 Suno-Spring-2012
 
 ![](http://seattlewatch2012.files.wordpress.com/2012/06/vlisco-fashion_palais-des-sentiments_collection-01.jpg)
