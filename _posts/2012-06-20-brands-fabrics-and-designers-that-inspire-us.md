@@ -33,7 +33,7 @@ Osklen 2012 Collection
 ![](http://seattlewatch2012.files.wordpress.com/2012/06/suno-spring-2012.jpg =100x200 "Suno-Spring-2012")
 Suno-Spring-2012
 
-![](http://seattlewatch2012.files.wordpress.com/2012/06/vlisco-fashion_palais-des-sentiments_collection-01.jpg)
+![](http://seattlewatch2012.files.wordpress.com/2012/06/vlisco-fashion_palais-des-sentiments_collection-01.jpg =100x200)
 Vlisco-Fashion_Palais-des-Sentiments_collection
 
 ![](http://seattlewatch2012.files.wordpress.com/2012/06/vlisco-fashion_palais-des-sentiments_collection-02.jpg "Vlisco-Fashion_Palais-des-Sentiments_collection-02")
