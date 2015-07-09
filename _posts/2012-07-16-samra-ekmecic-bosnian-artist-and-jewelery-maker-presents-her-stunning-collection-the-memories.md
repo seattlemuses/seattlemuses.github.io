@@ -9,7 +9,7 @@ categories:
 thumbnail: "/assets/samra-750.jpg"
 ---
 
-** SeaTac, July 5th.**
+**SeaTac, July 5th.**
 
 ![](http://seattlewatch2012.files.wordpress.com/2012/07/img_4778.jpg)
 **Samra July 5th 2012**
