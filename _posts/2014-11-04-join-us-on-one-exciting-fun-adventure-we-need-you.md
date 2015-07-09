@@ -1,14 +1,15 @@
 ---
 published: true
-title: Join us on one exciting, fun adventure! We need you!
+title: "Join us on one exciting, fun adventure! We need you!"
 author: Esther
 date: 2014 November 4
-categories:
+categories: 
   - "muses-updates"
 thumbnail: /assets/img_7547.jpg
 ---
+
 ![Niang working on the next creation during our pilot training. Can't wait to start classes again!](/assets/img_7547 (1).jpg)
-Niang working on the next creation during our pilot training. Can't wait to start classes again!
+**Niang working on the next creation during our pilot training. Can't wait to start classes again!**
 
 I am usually quite affected by the weather, but even the graying Seattle skies can't bring me down. I am more excited than I have ever been about Muses. A year after our pilot program, we are getting close to launching our full training program! I. Really. Cannot. Wait. As Sandrine shared in an earlier post, we have lots of great momentum going into the end of the year...and unlike the clouds above, the future is looking quite bright. :)
 
