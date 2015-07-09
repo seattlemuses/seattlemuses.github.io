@@ -37,4 +37,4 @@ The Ethical Fashion Initiative is not a charity. It facilitates dignified work a
 
 ![](/assets/2828193f-ba54-4cc2-a88c-7b7222b97c8f (1).jpg)
 
-Muses will start its new apparel production training program in 2015. If you want to join us and help us create jobs for unemployed and unreserved immigrant and refugee communities contact us at info@seattlemuses.com!
+**Muses will start its new apparel production training program in 2015. If you want to join us and help us create jobs for unemployed and unreserved immigrant and refugee communities contact us at info@seattlemuses.com!**
