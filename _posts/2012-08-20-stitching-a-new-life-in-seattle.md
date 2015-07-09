@@ -8,6 +8,7 @@ categories:
 thumbnail: "/assets/mansoureh-selection-e1359322706618.jpg"
 ---
 
+
 ![](/assets/20000101-img_4826-australia-2012.jpg "Mansoureh")
 
 Sometimes when everything around you in life changes, it's comforting to surround yourself with a few familiar items that do remain. This sense is reflected in the large smile on Mansoureh's face as she describes a painting on her wall. *"The little girl is me when I was 8. The bear is dreaming about me when I was younger."* She had painted the piece with a close friend, whom she met in Turkey after fleeing religious persecution in Iran.
@@ -31,4 +32,5 @@ Regardless of the many challenges of her daily life, Mansoureh looks radiant. Th
 ***
 
 [1] *"Washington State Fashion and Apparel Industry Cluster Study",* submitted by Seattle Community Attribute International, October 2010.
+
 [2] Since 1999, the State Department has designated Iran as a ―country of particular concern or CPC, under the International Religious Freedom Act (IRFA). USCIRF recommends in 2011 that Iran again be designated as a CPC. According to the Annual Report of the United States Commission on International Religious Freedom, (May 2011), *"The government of Iran continues to engage in systematic, ongoing, and egregious violations of religious freedom, including prolonged detention, torture, and executions based primarily or entirely upon the religion of the accused. Iran is a constitutional, theocratic republic that discriminates against its citizens on the basis of religion or belief. During the past year, religious freedom conditions continued to deteriorate, especially for religious minorities such as Baha‘is, Christians, and Sufi Muslims, and physical attacks, harassment, detention, arrests, and imprisonment intensified"*.
