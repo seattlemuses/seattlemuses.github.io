@@ -1,15 +1,16 @@
 ---
 published: true
-title: 'Countless countries celebrated "The World Refugee Day" on June 20th'
+title: "Countless countries celebrated \"The World Refugee Day\" on June 20th"
 author: Sandrine
 date: 2012 June 23
-categories:
+categories: 
   - "immigrants-refugees"
   - "ethical-fashion"
-thumbnail: /assets/300px-Ombrelles.jpg
+thumbnail: "/assets/300px-Ombrelles.jpg"
 ---
+
 ![Français : Ombrelle, France, début XXe siècle](/assets/300px-Ombrelles.jpg "Français : Ombrelle, France, début XXe siècle")
-"Ombrelle", Umbrella, a symbol for the world refugee day (Photo credit: [Wikipedia](http://commons.wikipedia.org/wiki/File:Ombrelles.jpg))
+**"Ombrelle", Umbrella, a symbol for the world refugee day (Photo credit: [Wikipedia](http://commons.wikipedia.org/wiki/File:Ombrelles.jpg))**
 
 June 20th countries around the world celebrated the World Refugee day. Several European countries such as Germany, France, UK, Ireland organized umbrella marches in their capitals. Participants to the marches had to bring a white umbrella as a symbol of protection and as a reminder that European countries should stretch an umbrella over refugees fleeing persecution, war and violence.
 
