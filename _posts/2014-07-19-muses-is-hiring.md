@@ -28,6 +28,8 @@ This is an exciting and unique opportunity to build an innovative training progr
 + Strong communication and interpersonal skills
 + Innovative and strong self-initiative
 
-**Part-time position / Short-term contract with possible extension to a long-term contract / Starting date:** Sept 15. (negotiable) / **Salary**: Pending experience level
+**Part-time position / Short-term contract with possible extension to a long-term contract**  
+**Starting date:** Sept 15. (negotiable)  
+**Salary**: Pending experience level
 
 ![](/assets/img_8503 (3).jpg)
