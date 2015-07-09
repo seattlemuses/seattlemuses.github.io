@@ -8,7 +8,7 @@ categories:
 thumbnail: "/assets/bc-copy.jpg"
 ---
 
-** SeaTac, July 5th 2012. Borka Paponjak, Resettlement Program Manager and Immigration Specialist, discusses how her family flew away from war-torn Sarajevo to resettle in the mountainous American northwest.**
+**SeaTac, July 5th 2012. Borka Paponjak, Resettlement Program Manager and Immigration Specialist, discusses how her family flew away from war-torn Sarajevo to resettle in the mountainous American northwest.**
 
 ![](http://seattlewatch2012.files.wordpress.com/2012/07/img_4782.jpg)
 
