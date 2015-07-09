@@ -1,21 +1,22 @@
 ---
 published: true
-title: Namita Paul, Muses Board of Directors, is presenting her artwork at the annual UW Undergraduate Research Symposium
+title: "Namita Paul, Muses Board of Directors, is presenting her artwork at the annual UW Undergraduate Research Symposium"
 author: Sandrine
 date: 2014 May 18
-categories:
+categories: 
   - "muses-updates"
-thumbnail: /assets/namita-paul-work-samples.jpg
+thumbnail: "/assets/namita-paul-work-samples.jpg"
 ---
+
 Namita Paul, Muses' Board of Directors, former fashion designer and instructor, is also a talented artist. Namita has been selected to participate in the The Seventeenth Annual Undergraduate Research Symposium organized by the University of Washington. She is currently presenting samples of her work at the Odegaard Undergraduate Library.
 
 ![Namita Paul Work Samples](/assets/namita-paul-work-samples (1).jpg)
-Disruption III, Namita Paul
+**Disruption III, Namita Paul**
 
 The Symposium provides an opportunity to discuss cutting edge research topics and to examine the connection between research and education. The event includes poster and presentation sessions by students from all academic disciplines.
 
-![Namita Paul Work Samples 2](/assets/namita-paul-work-samples-2.jpg?w=470)
-Winter 2014, Namita Paul
+![Namita Paul Work Samples 2](/assets/namita-paul-work-samples-2.jpg)
+**Winter 2014, Namita Paul**
 
 The Muses team would like to congratulate Namita for her hard work. This is also an opportunity for us to celebrate the art of creation. Thanks to designers, "makers" of all goods, amateurs or professionals artists, for bringing fantasy and poetry in our everyday life!
 
@@ -35,4 +36,4 @@ The Muses team would like to congratulate Namita for her hard work. This is also
 *(See more on Namita's web site: http://www.namipaul.com)*
 
 ![IMG_9004](/assets/img_9004.jpg?w=470)
-Namita Paul, presenting her work during the 7th UW Annual Undergraduate Research Symposium
+**Namita Paul, presenting her work during the 7th UW Annual Undergraduate Research Symposium**
