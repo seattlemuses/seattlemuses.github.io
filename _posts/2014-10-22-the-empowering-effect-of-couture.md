@@ -1,14 +1,15 @@
 ---
 published: true
-title: Mary's delightful world of couture
+title: "Mary's delightful world of couture"
 author: Sandrine
 date: 2014 October 22
-categories:
+categories: 
   - "immigrants-refugees"
   - "ethical-fashion"
-thumbnail: /assets/doc-dylane-21-of-411.jpg
+thumbnail: "/assets/doc-dylane-21-of-411.jpg"
 ---
-![Doc Dylane (21 of 41)](/assets/doc-dylane-21-of-411 (1).jpg)
+
+![](/assets/doc-dylane-21-of-411 (1).jpg)
 
 In her cozy little house located in South Seattle, Mary elegantly revives the art of creating high-quality, handcrafted clothing. With style and dexterity, Mary brings to life large panels of colorful fabrics such as cotton, chiffon and veil. She studied fashion and design in Nairobi, Kenya for three years. She brought with her experience and passion for sewing all way to Seattle. In addition to her demanding work as a stay home mom of two little kids, Mary loves taking on new sewing projects that her girlfriends request. She is always delighted when she witnesses her friends' satisfaction when wearing their new gown: *"When I see how beautiful and radiant a woman feels while trying on the dress I made for her, I'm fulfilled."*
 
