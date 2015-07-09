@@ -3,10 +3,11 @@ published: true
 title: Stitching a new life in Seattle
 author: Sandrine
 date: 2012 August 20
-categories:
+categories: 
   - "immigrants-refugees"
-thumbnail: /assets/mansoureh-selection-e1359322706618.jpg
+thumbnail: "/assets/mansoureh-selection-e1359322706618.jpg"
 ---
+
 ![](/assets/20000101-img_4826-australia-2012.jpg "Mansoureh")
 
 Sometimes when everything around you in life changes, it's comforting to surround yourself with a few familiar items that do remain. This sense is reflected in the large smile on Mansoureh's face as she describes a painting on her wall. *"The little girl is me when I was 8. The bear is dreaming about me when I was younger."* She had painted the piece with a close friend, whom she met in Turkey after fleeing religious persecution in Iran.
@@ -15,7 +16,7 @@ We were first introduced to Mansoureh through Sara Seumae, the owner and designe
 
 Back in her hometown of Tehran, Mansoureh was designing and creating cocktail and wedding dresses. After obtaining fashion and design degrees, she worked as a seamstress for over 7 years, which provided her with a strong set of skills and experiences. Mansoureh has worked for big boutiques, as small production lines. She has also acquired a mix of traditional and modern craftsmanship techniques. When she moved to Seattle, she took the first job that would help her gain financial self-sufficiency and social integration in the US. Currently, she is a line cook at a restaurant. She is very thankful for this position, but would love to seek further opportunities working as a seamstress due to her extensive experience and love for the profession. However, she has been unable to find opportunities.
 
-Ironically enough, Washington State has a market need for highly skilled seamstresses as the fashion industry continues to grow. Currently the WA fashion industry (designers, manufacturers, wholesalers, and corporate headquarters) supports a total of **51,700 jobs and $16.4 billion in revenue**. As a matter of fact, Seattle has more designers than large metropolitan cities such as Boston, Miami, or Chicago. And the industry is continuing to grow, based on a study conducted by the Seattle Community Attribute International (CAI) in 2010[1], which states that *"Washington State Fashion and Apparel Industry Cluster offers assets and opportunities for economic growth in 2010 and beyond."* The study also concludes that sewing occupations will grow in the future, due to increases in international labor costs and rising demand for higher quality, locally produced apparel.
+Ironically enough, Washington State has a market need for highly skilled seamstresses as the fashion industry continues to grow. Currently the WA fashion industry (designers, manufacturers, wholesalers, and corporate headquarters) supports a total of **51,700 jobs and $16.4 billion in revenue**. As a matter of fact, Seattle has more designers than large metropolitan cities such as Boston, Miami, or Chicago. And the industry is continuing to grow, based on a study conducted by the Seattle Community Attribute International (CAI) in 2010 [1], which states that *"Washington State Fashion and Apparel Industry Cluster offers assets and opportunities for economic growth in 2010 and beyond."* The study also concludes that sewing occupations will grow in the future, due to increases in international labor costs and rising demand for higher quality, locally produced apparel.
 
 With the growth in the fashion industry, the high density of local designers, and the increased demand for locally produced apparel come new market needs for skilled seamstresses. Local designers in Seattle also express the need for skilled seamstresses, who can fulfill smaller batch orders. The existing local manufacturers require larger orders that are not financially feasible for the designers. In this market context, Mansoureh's skills are highly valuable.
 
@@ -23,7 +24,7 @@ However, despite her experience and versatile skills matching a market need, sev
 
 ![](/assets/20000101-img_4816-australia-2012.jpg "Mansoureh")
 
-Regardless of the many challenges of her daily life, Mansoureh looks radiant. The life she is rebuilding in the US is safer than it used to be in Iran. Before moving to Seattle, Mansoureh had to flee to Turkey, where she waited for 3 years before obtaining a refugee status and permission to migrate to the US. In Seattle she has the opportunity to start over with a peaceful and safe life she aspired to for so long. Mansoureh is now free to practice her Christian faith without fear of persecution[[2]](#_ftn2). She is determined to succeed. She speaks about her passion for working with her hands and creating anything artistic, which she has always loved since a child. Hopefully through Muses, Mansoureh will be soon able to exercise her passion of sewing, while also helping designers further their ambitions by providing them with seamstress services.
+Regardless of the many challenges of her daily life, Mansoureh looks radiant. The life she is rebuilding in the US is safer than it used to be in Iran. Before moving to Seattle, Mansoureh had to flee to Turkey, where she waited for 3 years before obtaining a refugee status and permission to migrate to the US. In Seattle she has the opportunity to start over with a peaceful and safe life she aspired to for so long. Mansoureh is now free to practice her Christian faith without fear of persecution [2]. She is determined to succeed. She speaks about her passion for working with her hands and creating anything artistic, which she has always loved since a child. Hopefully through Muses, Mansoureh will be soon able to exercise her passion of sewing, while also helping designers further their ambitions by providing them with seamstress services.
 
 ![](/assets/mansoureh-collage.jpg "Mansoureh ")
 
