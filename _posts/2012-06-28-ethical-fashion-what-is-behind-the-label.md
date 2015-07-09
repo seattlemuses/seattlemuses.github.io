@@ -1,12 +1,13 @@
 ---
 published: true
-title: Ethical Fashion, what is behind the label?
+title: "Ethical Fashion, what is behind the label?"
 author: Sandrine
 date: 2012 June 28
-categories:
+categories: 
   - "ethical-fashion"
-thumbnail: /assets/fond-collage-e1350103112404.jpg
+thumbnail: "/assets/fond-collage-e1350103112404.jpg"
 ---
+
 ![](/assets/ethical-fashion-burkina.jpg?w=150 "Custom made top from Ouagadougou Burkina Faso")
 
 We are increasingly hearing more about brands that promote themselves as being part of the eco, ethical, or fair fashion movement. But what does "ethical" fashion mean exactly? What are the criteria for certification? Why is it important for consumers to differentiate ethical brands from non-ethical brands?
@@ -20,11 +21,10 @@ The growing need for certified ethical apparel is mainly due to the fact that th
 + **Unsafe machinery and long hours:** Extreme tiredness of textile workers due to excessively long working hours can cause serious accidents while operating factory machinery.
 + **Textile growing practices are damaging the environment:** Cotton is considered the world's 'dirtiest' crop due to its heavy use of insecticides. Indeed, cotton covers 2.5% of the world's cultivated land yet uses 16% of the world's insecticides, more than any other single major crop. [The Organic Trade Association](http://www.ota.com/organic/environment/cotton_environment.html) provides complete information on this issue. The Aral Sea in Central Asia, stands for one of the most tragic example of environmental and human disaster due to cotton production. The Aral Sea is once the world's fourth-largest lake, but it has been disappearing since the 1960s, when planners from the former Soviet Union began siphoning water to grow cotton in what is now Uzbekistan. [The Environment Justice Foundation](http://www.ejfoundation.org/page146.html) provides a great report on this issue.
 
-Bellow is a picture that shows how much the lack shrunk since 1989 (15% of its former volume).
+Below is a picture that shows how much the lack shrunk since 1989 (15% of its former volume).
 
 ![](/assets/aral_sea_x2.jpg "Areal Sea")
-LEFT: The Areal sea in 1989 
-RIGHT: The Areal sea in 2003
+**LEFT: The Areal sea in 1989, RIGHT: The Areal sea in 2003**
 
 As designers, manufacturers, retailers, or consumers, we need to recognize that despite our very limited exposure to the factory environment and the lives of garment workers in developing countries, our day-to-day decisions will have significant impact on workers in factories around the world. Through the acts of making and buying clothes, we influence a cumulative chain of events back through the supply chain that impact workers, their health, their communities, and the environment. **Our consuming choices matter!**
 
