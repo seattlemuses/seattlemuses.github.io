@@ -8,7 +8,8 @@ categories:
 thumbnail: /assets/index.jpg
 ---
 
-> Today we celebrate refugees: their courage, their perseverance against all odds. Celebrate the hope they carry with them. This is what we need. Not slogans. We need a profound understanding
+
+> Today we celebrate refugees: their courage, their perseverance against all odds. Celebrate the hope they carry with them. This is what we need. Not slogans. We need a profound understanding.  
 > *Mr Albrecht, UNHCR's Regional Representative for Australia.*
 
 ![](/assets/EYTR_World_Refugee_Day.jpg)
