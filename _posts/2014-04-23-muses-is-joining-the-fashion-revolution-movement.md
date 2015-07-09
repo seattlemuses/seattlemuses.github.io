@@ -8,11 +8,12 @@ categories:
 thumbnail: "/assets/fashion-rev.jpg"
 ---
 
+
 ![](/assets/WMYC_black_2.png)
 
 ![](/assets/BdqE8ltCUAALcBQ.jpg)
 
-** Today is big day. This is [Fashion Revolution Day](http://fashionrevolution.org/about/mission/)! Muses is celebrating fashion as a positive influence, and all those who contribute to making it so. Have you ever wondered who made your clothes? It is time to remember that million of people are working hard everyday to produce our clothes and sadly, a majority of them are facing terrible condition of work. **
+**Today is big day. This is [Fashion Revolution Day](http://fashionrevolution.org/about/mission/)! Muses is celebrating fashion as a positive influence, and all those who contribute to making it so. Have you ever wondered who made your clothes? It is time to remember that million of people are working hard everyday to produce our clothes and sadly, a majority of them are facing terrible condition of work.**
 
 A year after the [Rana Plaza](http://www.theguardian.com/world/rana-plaza "More from the Guardian on Rana Plaza") disaster in Bangladesh, fashion industry leaders, campaigners, press and academics from within the sector and beyond are coming together **today** to launch a [**Fashion Revolution Campaign**](http://fashionrevolution.org/). This campaign aims to build connections throughout the fashion supply chain, linking the cotton farmer, the dyer and the seamstress with the consumer. The Fashion industry has impacts on so many and, as such, it also has the potential to improve millions of lives around the world.
 
