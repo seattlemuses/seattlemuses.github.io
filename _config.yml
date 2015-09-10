@@ -30,9 +30,9 @@ blogCategories: &blogcategories
 # Prose configuration
 
 prose:
-  rooturl: ''
-  siteurl: 'http://seattlemuses.github.io/'
-  relativeLinks: 'http://seattlemuses.github.io/links.jsonp'
+  rooturl: '_posts/'
+  siteurl: 'http://www.seattlemuses.com/'
+  relativeLinks: 'http://www.seattlemuses.com/links.jsonp'
   media: 'assets'
   ignore:
     - index.md
