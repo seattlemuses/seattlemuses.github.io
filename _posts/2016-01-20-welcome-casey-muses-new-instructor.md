@@ -6,9 +6,10 @@ categories:
   - "muses-updates"
   - "workforce-development"
 thumbnail: "![Casey.jpg]({{site.baseurl}}/assets/Casey.jpg)"
-published: false
+published: true
 title: "Welcome Casey, Muses' New Instructor!"
 ---
+
 
 We are thrilled to announce a new addition to Muses team! Casey Sagisi will be in charge of  leading our new professional sewing classes! We are now offering day classes for beginners interested in learning basic professional and industrial sewing techniques. We are honored to have Casey share his professional experience with our new students.  Discover his bio!
 
