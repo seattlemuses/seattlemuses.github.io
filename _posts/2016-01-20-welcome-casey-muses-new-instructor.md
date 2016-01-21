@@ -1,11 +1,11 @@
 ---
-author: Sandrine Espie
+author: Sandrine
 date: "2016-01-20"
 categories: 
   - "immigrants-refugees"
   - "muses-updates"
   - "workforce-development"
-thumbnail: "![Casey.jpg]({{site.baseurl}}/assets/Casey.jpg)"
+thumbnail: /assets/Casey.jpg
 published: true
 title: "Welcome Casey, Muses' New Instructor!"
 ---
